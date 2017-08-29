@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2
+  SYSTEM "../../dtd/tei/cch_tei.dtd">
+<TEI.2 id="hofm_1854_05">
+<teiHeader type="text"><fileDesc><titleStmt><title>Mai 1854</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language id="ger">German</language><language id="fre">French</language><language id="ita">Italian</language></langUsage></profileDesc><revisionDesc><change><date>2007-04-27</date><respStmt><name>RV</name></respStmt><item>Changed "biblGroup" elements in "listBibl"</item></change><change><date>2007-03-02</date><respStmt><name>EP</name></respStmt><item>Checked curly brackets</item></change><change><date>2007-02-26</date><respStmt><name>EP</name></respStmt><item>Encoded curly brackets</item></change><change><date>2006-12-19</date><respStmt><name>EP</name></respStmt><item>sic and unclear moved outside elements pubplaces, publisher, composer, hofclass, key, opus</item></change><change><date>2006-02-19</date><respStmt><name>Liz</name></respStmt><item>p. 555 incorrect subject tagging amended</item></change><change><date>2006-02-14</date><respStmt><name>Liz</name></respStmt><item>p. 551 Ernst und Scherz title, not composer</item></change><change><date>2005-10-11</date><respStmt><name>Phillip</name></respStmt><item>amendments following checking</item></change><change><date>2005-06-30</date><respStmt><name>Phillip</name></respStmt><item>first coding</item></change><change><date>2005-06-17</date><respStmt><name>Liz</name></respStmt><item>pasting in &amp; checking automated tagging</item></change></revisionDesc></teiHeader>
+
+<text><body><pb n="542"/><head>Mai 1854.</head><div id="hofm_1854_05_0542_div01"><head><hofClass key="hofCl_0164">Musik für das Orchester.</hofClass></head>
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0542_01"><composer key="compo_033569">Strauss, Joh.</composer>, <title>Wellen und Wogen. Walzer, f. Orch. Op. <opus key="opus_0720">141</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 2 Rt. 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0542_02">– <title>Wiedersehen-Polka, f. Orch. Op. <opus key="opus_0727">142</opus></title>. Ebend. 25 Ngr.</bibl>
+</div><div id="hofm_1854_05_0542_div02"><head><hofClass key="hofCl_0245">Musik für die Violine.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0542_03"><composer key="compo_006448">Dancla, Ch.</composer>, <title>5me Quatuor p. 2 Violons, Alto et Violoncelle. Op. <opus key="opus_3105">48</opus>, in <key>A</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 1 Rt. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0542_04">– <title>3 Duos fac. et conc. p. 2 Violons. Op. <opus key="opus_3701">62</opus></title> (Collection progr. 3me Serie Liv. 3.). <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 1 Rt.</bibl>
+<bibl id="hofm_1854_05_0542_05"><composer key="compo_021591">Léonard, H.</composer>, <title>Grande Fantaisie sur le célèbre Valse : Le Désir, p. Violon av. Orch. Op. <opus key="opus_1165">18</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 4 Fl. 48 Xr.</bibl>
+<bibl id="hofm_1854_05_0542_06"><composer key="compo_023268">Meyerbeer, G.</composer>, <title>Opéras. Choix d’Airs et de Romances p. Violon. No. 1, Robert le Diable. No. 2, Les Huguenots. No. 3, Le Prophète</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0640">Cranz</publisher> à 20 Ngr.</bibl>
+</div><div><head><hofClass key="hofCl_0200">Musik für die Flöte.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0542_07"><composer key="compo_006919">Diabelli, A.</composer>, <title>Der musikalische Gesellschafter f. Flöte. No. 89, Verdi, Luisa Miller</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 20 Ngr.</bibl>
+</div><div id="hofm_1854_05_0542_div04"><head><hofClass key="hofCl_0247">Musik für die Zither.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0542_08"><composer key="compo_007439">Dubez, J.</composer>, <title>Der Melodien-Sammler für Zither. 4tes Heft, Motive a. d. Oper Lucia di Lammermoor. Souvenir de Chopin, Marche funebre</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0542_09">– <title>Morceau caracteristique p. Zither</title>. Ebend. 8 Ngr.</bibl>
+<wip id="hofm_1854_05_0542_10"><composer key="compo_023699">Montlevrin, L.</composer>, <title>Ländler f. Zither</title>. <title>Heft 3 (Op. <opus key="opus_3967">7</opus>.)</title> <title>Heft 4 (Op. <opus key="opus_4300">8</opus>.</title>) 8. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_4456">Witzendorf</publisher> à 10 Ngr.</wip>
+<wip id="hofm_1854_05_0542_11">– <title>Lieder f. Zither</title>. <title>Heft 10, Nachtgedanken. L’Attente</title>. <title>Heft 11, L’Agitation. Der Seelenfrieden</title>. <title>Heft 12, Frühlingslied. Melancolie</title>. <title>Heft 13, Abend-Dämmerung. Elegie</title>. Ebend. à 5 Ngr.</wip>
+</div><div id="hofm_1854_05_0542_div05"><head><hofClass key="hofCl_0205">Musik für die Guitarre.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0542_12"><composer key="compo_000736">Anselm, J.</composer>, <title>Ländler f. 2 Guitarren</title>. <pubPlace key="place_0026">Augsburg</pubPlace>, <publisher key="publ_0538">Böhm</publisher> 18 Xr.</bibl>
+</div><div id="hofm_1854_05_0542_div06"><head><hofClass key="hofCl_0167">Musik für das Pianoforte mit Begleitung.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0542_13"><composer key="compo_001225">Bach, J.S.</composer>, <title>Concert p. Clavecin av. 2 Violons, Alto, Vclle et Bass (in <key>A</key>.)</title> <format>Partition</format> (1 Rt.) <format>Parties</format> (1 Rt. 5 Ngr.) Oeuvres compl. Liv. 20. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 2 Rt. 5 Ngr.</bibl>
+<wip id="hofm_1854_05_0542_14"><composer key="compo_005344">Carrer, P.</composer>, e <composer key="compo_026578">F. Pizzi</composer>, <title>Giardino musicale. Fantasie conc. sopra Motivi delle Opere di Verdi, p. Pfte e Flauto. Op. <opus key="opus_3868">67</opus></title>. <title>No. 1, il Trovatore. No. 2, Luisa Miller. No. 3, Rigoletto</title> (à 3½ Fr.) <title>No. 4, Rigeletto</title> (4 Fr.) <title>No. 5, Ernani. No. 6, I Lombardi</title> (à 3½ Fr.) <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher>.</wip>
+<pb n="543"/>
+<bibl id="hofm_1854_05_0543_01"><composer key="compo_005681">Ciardi, C.</composer>, <title>Fantasia sopra Motivi dell’ Opera: Lucia di Lammermoor, p. Flauto con Pfte</title>. <pubPlace key="place_0437">Mailand</pubPlace>. <publisher key="publ_2495">Lucca</publisher> 5 Fr.</bibl>
+<bibl id="hofm_1854_05_0543_02"><composer key="compo_006216">Cunio, A.</composer>, e <composer key="compo_026578">F. Pizzi</composer>, <title>2 Divertimenti sopra Motivi dell’ Opera il Trovatore, di Verdi p. Pfte e Flauto. Op. <opus key="opus_2188">31. No. 1</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 5 Fr.</bibl>
+<bibl id="hofm_1854_05_0543_03"><composer key="compo_006408">Damcke, B.</composer>, <title>La Veillee. Pastorale p. Violon et Pfte. Op. <opus key="opus_2630">38</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl.</bibl>
+<bibl id="hofm_1854_05_0543_04"><composer key="compo_010010">Friedenthal, L.</composer>, <title>6 Lieder im Volkstone f. Violine u. Pfte. Op. <opus key="opus_2737">4</opus>. Heft 1. 2</title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_4382">Whistling</publisher> à 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_05"><composer key="compo_010563">Galli, R.</composer>, <title>Il Trovatore, di Verdi. Fantasia p. Flauto con Pfte. Op <opus key="opus_2804">41</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 6 Fr.</bibl>
+<wip id="hofm_1854_05_0543_06"><composer key="compo_010600">Gamucci, B.</composer>, e <composer key="compo_010563">R. Galli</composer>, <title>Florilegio musicale. Collezione di Fantasie progressivi p. Flauto e Pfte. Op. <opus key="opus_3210">50. No. 1. 2</opus>, Verdi, Nabucco</title>. <title>No. 1</title> (4½ Fr.) <title>No. 2</title> (4 Fr.) <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher>.</wip>
+<bibl id="hofm_1854_05_0543_07"><composer key="compo_011274">Giovacchini, G.</composer>, <title>Fantasia di Concerto sopra Motivi dell’ Opera: Luisa Miller, di Verdi, p. Violino con Pfte. Op. <opus key="opus_1068">17</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 5 Fr.</bibl>
+<bibl id="hofm_1854_05_0543_08"><composer key="compo_015336">Hopfe, Jul.</composer>, <title>Trio f. Pfte, Violine u. Vclle. Op. <opus key="opus_2764">40</opus>, in <key>D</key></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0589">Challier u. Co</publisher>. 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_09"><composer key="compo_016840">Kalliwoda, J.W.</composer>, <title>Intr. et grand Galop en forme de Rondeau p. Violon av. Pfte. Op. <opus key="opus_1339">198</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>. <publisher key="publ_3023">Peters</publisher> 22½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_10"><composer key="compo_021591">Léonard, H.</composer>, <title>Grande Fantaisie sur le celébre Valse : Le Désir, p. Violon av. Pfte. Op. <opus key="opus_1165">18</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 2 Fl. 24 Xr.</bibl>
+<bibl id="hofm_1854_05_0543_11"><composer key="compo_022904">Mendelssohn-Bartholdy, F.</composer>, <title>Canzonetta arr. p. Pfte et Violon p. A. Oechsner. Op. <opus key="opus_0392">12</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_12"><composer key="compo_023238">Meyer, L.</composer>, <title>Kinder-Trio f. Pfte, Violine u. Vclle. Op. <opus key="opus_0001">1</opus></title>. <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 25 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_13"><composer key="compo_023404">Milanollo, Theresa</composer>, <title>Grande Fantaisie elegiaque, p. Violon av. Pfte. Op. <opus key="opus_0001">1</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 1 Rt. 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_14"><composer key="compo_027982">Reissiger, C.G.</composer>, <title>21ieme grand Trio p. Pfte, Violon et Vclle. Op. <opus key="opus_1417">201</opus>, in <key>G</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 2 Rt. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_15"><composer key="compo_028765">Romberg, Ch.</composer>, <title>Scene (Impromptu) p. Violoncelle av. Pfte. Op. <opus key="opus_1482">21</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 17½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_16"><composer key="compo_032798">Spohr, L.</composer>, <title>Grand Duo d’apres le Nocturne, arr. p. Pfte et Violoncelle p. F. Grützmacher. Op. <opus key="opus_2403">34</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 1 Rt. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_17"><composer key="compo_033521">Stransky, J.</composer>, <title>Transcription bel. Lieder, Gesänge u. Romanzen f. Violoncell m. Pfte. Op. <opus key="opus_0829">15. No. 9</opus>, Schubert, Wiegenlied</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_4456">Witzendorf</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_18">– <title>Bouquet de Melodies des Operas fav. p. Vclle et Pfte. Op. <opus key="opus_1271">19</opus>. No. 7, Meyerbeer, le Prophète. No. 8, Rossini, il Barbiere di Seviglia. No. 9, Balfe, die Zigeunerin. No. 10, Bellini, la Sonnambula. No. 11, Meyerbeer, les Huguenots. No. 12, Donizetti, Lucrezia Borgia</title>. Ebend. à 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_19">– <title>Duo conc. p. 2 Vclles av. Pfte. Op. <opus key="opus_1390">20</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 1 Rt. <lb/>Dieses Werk erschien im Jahre 1853 irrthümlich unter dem Titel <composer key="compo_022990">Merk</composer>, Op. <opus key="opus_2458">35</opus>. und erscheint hiermit in einer <edition>neuen verbesserten Auflage</edition> unter dem richtigen Namen des Componisten.</bibl>
+<bibl id="hofm_1854_05_0543_20"><composer key="compo_033569">Strauss, Joh.</composer>, <title>Wellen und Wogen. Walzer, f. Violine u. Pfte. Op. <opus key="opus_0720">141</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0543_21">– <title>Wiedersehen-Polka, f. Violine u. Pfte. Op. <opus key="opus_0727">142</opus></title>. Ebend. 7 Ngr.</bibl>
+</div><div id="hofm_1854_05_0543_div07"><head><hofClass key="hofCl_0171">Musik für das Pianoforte zu vier Händen.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0543_22"><composer key="compo_005672">Chwatal, F.X.</composer>, <title>Petites Pièces instructives. Op. <opus key="opus_0255">110</opus>. Heft 1</title>. <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 15 Ngr.</bibl>
+<pb n="544"/>
+<bibl id="hofm_1854_05_0544_01"><composer key="compo_013697">Haydn, Jos.</composer>, <title>Collection de Quatuors p. Violon, arr. p. F.X. Gleichauf. No. 13, in <key>A</key>. (Op. <opus key="opus_3386">55. No. 1</opus>.)</title> <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 20 Ngr.</bibl>
+<wip id="hofm_1854_05_0544_02"><composer key="compo_022933">Menozzi, G.</composer>, <title>Simpatie musicali. Raccolta di Pezzi brill. Op. <opus key="opus_2670">39</opus></title>. <title>No. 1, Fantasia sull’ Opera: Il Trovatore, di Verdi</title> (4½ Fr.) <title>No. 2, Intr. e Marcia nell’ Opera: Macbeth, di Verdi</title> (3 Fr.) <title>No. 3, Capriccio sull’ Opera: I Lombardi</title> (4 Fr.) <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher>.</wip>
+<bibl id="hofm_1854_05_0544_03"><composer key="compo_023890">Mozart, W.A.</composer>, <title>Misericordias Domini, f. Pfte zu vier Händen m. Begl. d. Physharmonica eing. v. C.G. Lickl</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0544_04">– <title>Misericordias Domini, gesetzt v. J. Hoven</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0544_05"><composer key="compo_025260">Oesten, Th.</composer>, <title>2 Fantaisies élégantes en forme de Potpourris sur des Themes d’Opéras fav. No. 1, Lucrezia Borgia (Op. <opus key="opus_2268">32</opus>.) No. 2, Martha (Op. <opus key="opus_2403">34</opus>.)</title> <pubPlace key="place_0674">Teterow</pubPlace>, <publisher key="publ_4063">Topp</publisher> à 22½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0544_06"><composer key="compo_029688">Sanflorenzo, C.</composer>, <title>L’Amitié. Fantaisie brill</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 4 Fr.</bibl>
+<bibl id="hofm_1854_05_0544_07"><composer key="compo_033569">Strauss, Joh.</composer>, <title>Wellen und Wogen. Walzer. Op. <opus key="opus_0720">141</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 1 Rt.</bibl>
+</div><div id="hofm_1854_05_0544_div08"><head><hofClass key="hofCl_0272">Ouverturen für das Pianoforte zu vier Händen.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0544_08"><composer key="compo_033881">Suppé, Fr. v.</composer>, <title>Ouverture zu Dichter u. Bauer, eing. v. C.T. Brunner</title>. <pubPlace key="place_0475">München</pubPlace>, <publisher key="publ_0028">Aibl</publisher> 22½ Ngr.</bibl>
+</div><div id="hofm_1854_05_0544_div09"><head><hofClass key="hofCl_0166">Musik für das Pianoforte allein.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0544_09"><composer key="compo_001008">Ascher, J.</composer>, <title>Danse andalouse. Caprice de Concert. Op. <opus key="opus_2131">30</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 12 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_10">– <title>Galopp-Scherzo sur les Motifs de la Tonelli, d’A. Thomas. Op. <opus key="opus_2187">31</opus></title>. Ebend. 1 Fl. 12 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_11"><composer key="compo_001251">Bach, W.F.</composer>, <title>8 Fugen</title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 25 Ngr.</bibl>
+<bibl id="hofm_1854_05_0544_12"><composer key="compo_002826">Beyer, Ferd.</composer>, <title>Repertoire des jeunes Pianistes. Fantaisies instr. sur des Motifs d’Opéras fav. Op. <opus key="opus_2529">36. No. 36</opus>, Verdi, Attila</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 45 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_13">– <title>Bouquets de Melodies. Op. <opus key="opus_2875">42. No. 33</opus>, Donizetti, Lucrezia Borgia</title>. Ebend. 1 Fl.</bibl>
+<bibl id="hofm_1854_05_0544_14">– <title>6 Morceaux élégants sur des Airs Allemands fav. Op. <opus key="opus_0501">128</opus>. No. 1, Fischer, Frühlingstoaste. No. 2, Schubert, die Post. No. 3, Meyerbeer, Komm du schönes Fischermädchen</title>. Ebend. à 45 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_15"><composer key="compo_003035">Binder, C.</composer>, <title>Quodlibet aus Nestroy’s Posse: Theaterg’schichten</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0544_16"><composer key="compo_003335">Blumenthal, J.</composer>, <title>Tyrolienne. Op. <opus key="opus_2187">31</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 54 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_17"><composer key="compo_004464">Bruyck, C.D. van</composer>, <title>Sonate. Op. <opus key="opus_1372">2</opus>, in <key>Dm</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 1 Rt. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0544_18"><composer key="compo_004712">Burgmüller, Frédr.</composer>, <title>Les Filles de Marbre. Valse brillante</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 45 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_19"><composer key="compo_006106">Cramer, H.</composer>, <title>Potpourris sur des Motifs d’Opéras fav. No. 110, Wagner, der Tannhäuser. No. 111, Auber, Marco Spada</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> à 54 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_20"><composer key="compo_006106">Cramer, H.</composer>, <title>Potpourris élégants sur des Motifs d’Opéras fav. No. 67, Flotow, Rübezahl (No. 1.)</title> <pubPlace key="place_0519">Offenbach</pubPlace>, <publisher key="publ_0065">André</publisher> 1 Fl. 12 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_21"><composer key="compo_006170">Croisez, A.</composer>, <title>Fantaisie sur l’Opéra : Marco Spada, d’Auber. Op. <opus key="opus_3825">66</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 54 Xr.</bibl>
+<bibl id="hofm_1854_05_0544_22"><composer key="compo_006181">Croze, F. de</composer>, <title>Fiorita Invitation à la Mazourka</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0544_23"><composer key="compo_006216">Cunio, A.</composer>, <title>Panorama teatrale. Raccolta di eleganti Fantasie sopra Motivi delle Opere moderne. Op. <opus key="opus_2737">4</opus>. Fasc. 29, Verdi, il Trovatore</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 3 Fr.</bibl>
+<bibl id="hofm_1854_05_0544_24"><composer key="compo_006216">Cunio, A.</composer>, <title>Fiori d’Euterpe. Pensieri d’Opereteatrali. Serie 2. Op. <opus key="opus_3181">5</opus>. Fasc. 21, Verdi, i due Foscari</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 3 Fr.</bibl>
+<pb n="545"/>
+<wip id="hofm_1854_05_0545_01"><composer key="compo_006306">Czerny, Ch.</composer>, <title>Album des Pianistes. 12 Morceaux caractéristiques. Op. <opus key="opus_4427">832</opus></title>. <title>No. 1, L’Agitation</title> (17½ Ngr.) <title>No. 2, Romance</title> (7½ Ngr.) <title>No. 3, Confiance</title> (15 Ngr.) <title>No. 4, Rejouissance</title> (10 Ngr.) <title>No. 5, Persuasion</title> (7½ Ngr.) <title>No. 6, les Chasseurs</title> (10 Ngr.) <title>No. 7, la Mazourka</title> (10 Ngr.) <title>No. 8, les Papillons</title> (12½ Ngr.) <title>No. 9, Courante. Etude de la Légèreté véloce</title> (15 Ngr.) <title>No. 10, Sonnerie harmonique</title> (15 Ngr.) <title>No. 11, Jubilation</title> (15 Ngr.) <title>No. 12, Saltarella</title> (12½ Ngr.) <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 3 Rt. 15 Ngr.</wip>
+<bibl id="hofm_1854_05_0545_02"><composer key="compo_006921">Diabelli, Ant.</composer>, <title>Euterpe. Eine Reihe moderner u. vorz. bel. Tonstücke No. 516, 517, 2 Potpourris nach Motiven der Oper: Der Sommernachtstraum, v. A. Thomas. No. 518, 519, 2 Potpourris nach Motiven der Oper: Keolanthe oder das Traumbild, v. M.W. Balle</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> à 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_03"><composer key="compo_007224">Doppler, J.H.</composer>, <title>Matinée musicale. Morceaux élégantes. Op. <opus key="opus_0109">102. No. 7</opus>, Petite Fantaisie sur l’Air de G. Preyer : Ob sie wohl kommen wird</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 12½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_04">– <title>lière Valse brill. Op. <opus key="opus_1147">178</opus></title>. <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 10 Ngr.</bibl>
+<wip id="hofm_1854_05_0545_05">– <title>2 Lieder ohne Worte. Op. <opus key="opus_1153">179</opus></title>. <title>Du hast mich nie geliebt</title>. (5 Ngr.) <title>Ein vertrauliches Wort</title> (7½ Ngr.) Ebend. 10 Ngr.</wip>
+<bibl id="hofm_1854_05_0545_06">– <title>Souvenir à Therese Milanollo. Petite Fantaisie. Op. <opus key="opus_1295">191</opus></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_07"><composer key="compo_007456">Ducci, Ch.</composer>, <title>Chanson de l’Opera : Il Trovatore de Verdi variée. Op. <opus key="opus_0001">1</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 1¾ Fr.</bibl>
+<bibl id="hofm_1854_05_0545_08"><composer key="compo_007942">Egghard, Jul.</composer>, <title>La Danse des Nayades. Op. <opus key="opus_1482">21</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_09">– <title>Sérénade italienne. Op. <opus key="opus_1584">22</opus></title>. Ebend. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_10"><composer key="compo_010041">Friedrich, E.F.</composer>, <title>Fantaisie sur des Thémes de l’Opéra : Rigoletto, de Verdi. Op. <opus key="opus_3244">51</opus></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_11">– <title>Grande Valse sur des Thèmes de Rigoletto. Op. <opus key="opus_3282">52</opus></title> Ebend. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_12"><composer key="compo_010291">Fumagalli, Ad.</composer>, <title>I Lombardi, di Verdi. Intr. et grand Adagio de Concert. Op. <opus key="opus_4130">75</opus></title> (Décaméron. No. 5.) <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 17½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_13">– <title>Nabucodonosor, di Verdi. Fantaisie brill. Op. <opus key="opus_4601">91</opus></title> (Décaméron. No. 7.) Ebend. 17½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_14"><composer key="compo_011260">Gintze, Th.</composer>, <title>Potpourri sur les Motifs de l’Opéra : Stiffelio, de Verdi. Op. <opus key="opus_4563">9, No. 1</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_15"><composer key="compo_011618">Golinelli, S.</composer>, <title>Rimembranze nell’ Opera: Norma, di Bellini. Op. <opus key="opus_3825">66</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 6 Fr.</bibl>
+<bibl id="hofm_1854_05_0545_16">– <title>I Puritani di Bellini. Quartetto trascritto. Op. <opus key="opus_4654">94</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 3½ Fr.</bibl>
+<bibl id="hofm_1854_05_0545_17">– <title>Melodia nell’ Opera: Semiramide, di Rossini, variata. Op. <opus key="opus_4671">95</opus></title>. Ebend. 3 Fr.</bibl>
+<bibl id="hofm_1854_05_0545_18"><composer key="compo_012011">Gressler, F.A</composer>, <title>Euphonie. 12 gef. Melodien, mit Fantasien, Divertissements, Impromptus etc. Op. <opus key="opus_1888">26. No. 1–6</opus></title>. <pubPlace key="place_0386">Langensalza</pubPlace>, <publisher key="publ_3618">Schulbuchhdl</publisher>. geh. 2 Rt.</bibl>
+<bibl id="hofm_1854_05_0545_19">– <title>Lianen. Kleine instructive Rondos, Fantasien, Variationen etc. Op. <opus key="opus_1938">27. No. 1–6</opus></title>. Ebend. geh. 24 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_20"><composer key="compo_012419">Grützmacher, Fréd</composer>, <title>La Sylphide. Morceau caracteristique p. Pfte. Op. <opus key="opus_4300">8</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_21"><composer key="compo_012565">Gutmann, Ad.</composer>, <title>L’Elegante. Valse p. Pfte. Op. <opus key="opus_2187">31</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_22">– <title>Nord et Midi. 2 Rêveries. Op. <opus key="opus_2268">32</opus></title>. Ebend. 12½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_23"><composer key="compo_014550">Herz, H.</composer>, <title>1ère Transcription-Fantaisie sur des Motifs de la Sonnambula, de Bellini. Op. <opus key="opus_1134">176</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 12 Xr.</bibl>
+<bibl id="hofm_1854_05_0545_24"><composer key="compo_014569">Herzberg, Ant</composer>, <title>La Cascade. Etude de Concert. Op. <opus key="opus_4300">8</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_25"><composer key="compo_016166">Jaell, A.</composer>, <title>Waldesflüstern. Illustration. Op. <opus key="opus_1999">28</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0545_26">– <title>Liebestraum. Polka. Op. <opus key="opus_2066">29</opus></title>. Ebend. 15 Ngr.</bibl>
+<pb n="546"/>
+<bibl id="hofm_1854_05_0546_01"><composer key="compo_016599">Jungmann, A.</composer>, <title>Im Thale. Idylle. Op. <opus key="opus_2509">36</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_02">– <title>Keolanthe, od. das Traumbild. Oper v. M.W. Balfe. 6 Tonstücke. Op. <opus key="opus_2630">38</opus>. No. 1, Cavatina (Ach Andrea) No. 2, Arie (Keine Schwüre)</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> à 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_03">– <title>Soldaten-Abschied. Klavierstück. Op. <opus key="opus_2804">41</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_04">– <title>Ave Maria! Op. <opus key="opus_2850">42</opus></title>. Ebend. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_05">– <title>Spaniers Ständchen. Op. <opus key="opus_2996">45</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_06"><composer key="compo_018913">Krug, D.</composer>, <title>Fleurs de Salon. 6 Fantaisies brill. sur des Thèmes fav. des Opèras. Op. <opus key="opus_3770">64. No. 1</opus>, Flotow, Indra</title>. <pubPlace key="place_0674">Teterow</pubPlace>, <publisher key="publ_4063">Topp</publisher> 17½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_07"><composer key="compo_019119">Kullak, Th</composer>, <title>Kinderleben. Kleine Stücke. 2tes Heft. Op. <opus key="opus_4354">81</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace> <publisher key="publ_0166">Bahn</publisher> 27½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_08"><composer key="compo_019727">Lafont, G.</composer>, <title>Scale doppie in Terza. Op. <opus key="opus_2187">31</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 3 Fr.</bibl>
+<bibl id="hofm_1854_05_0546_09"><composer key="compo_020320">Lefébure-Wely</composer>, <title>Les jeunes Recrues. Caprice militaire. Op. <opus key="opus_4241">79</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 45 Xr.</bibl>
+<bibl id="hofm_1854_05_0546_10"><composer key="compo_021753">Lührss, C.</composer>, <title>Mährchen. Kleine Tonstücke. Op. <opus key="opus_1802">25</opus>. Heft 3</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 1 Rt.</bibl>
+<bibl id="hofm_1854_05_0546_11"><composer key="compo_021570">Lysberg, Ch.B.</composer>, <title>3 Romances sans Paroles. 3me Livr. Op. <opus key="opus_1932">27</opus>. (Regrets. Invocation. Aveu)</title> <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_12">– <title>3 Romances sans Paroles. 4me Livr. Op. <opus key="opus_2131">30</opus> (Près d’une Chapelle. Soir d’Automne : Rayon de Bonheur)</title>. Ebend. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_13"><composer key="compo_022325">Martin, H.</composer>, <title>Repertoire de l’ Opéra. Pieces choisies de plus célèbres Operas. Op. <opus key="opus_1731">24</opus>. No. 3, Ricci, Chiara di Rosenberg. No. 4, Verdi, Il Finto Stanislao. No. 5, Wagner, Tannhäuser</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_14">– <title>Grande Valse brill. sur des Thèmes fav. de l’Opéra Stiffelio. Op. <opus key="opus_2066">29</opus></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_15">– <title>Pensées de Verdi. 6 petites Fantaisies faciles sur des Motifs fav. des Operas. No. 1. 2, Luisa Miller. No. 3. 4, Rigoletto. No. 5. 6., Stiffelio</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> à 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_16"><composer key="compo_023160">Metzger, J.C.</composer>, <title>Bretagnisches Lied aus Juin’s Genrebild: Satan, paraphrasirt</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_17"><composer key="compo_023239">Meyer, L. de</composer>, <title>Sultana-Polka. Op. <opus key="opus_4377">82</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl.</bibl>
+<bibl id="hofm_1854_05_0546_18"><composer key="compo_023475">Mirecki, St.</composer>, <title>Grand Scherzo. Op. <opus key="opus_1372">2</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 15 Ngr.</bibl>
+<wip id="hofm_1854_05_0546_19"><composer key="compo_023890">Mozart, W.A.</composer>, <title>3 Rondo</title>. <title>No. 1, in <key>F</key>. No. 2, A la turca, in <key>Am</key></title>. (à 5 Ngr.) <title>No. 3, Op. <opus key="opus_1068">17</opus>, in <key>D</key></title> (10 Ngr.) <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0589">Challier u. Co</publisher>.</wip>
+<bibl id="hofm_1854_05_0546_20"><composer key="compo_025972">Pedrotti, C.</composer>, <title>Fiorina, o la Fanciulla di Glaris. Melodramma semiserio. <format>Riduzione p. Pfte</format></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_3241">Ricordi</publisher> geh. 24 Fr.</bibl>
+<bibl id="hofm_1854_05_0546_21"><composer key="compo_026127">Pescio, A</composer>, <title>Il Foletto. Galopp brill. Op. <opus key="opus_0684">14</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 3 Fr.</bibl>
+<bibl id="hofm_1854_05_0546_22"><composer key="compo_026630">Platz, J G.</composer>, <title>114 Uebungen in der Unabhängigkeit der Finger, nach d. Grundsätzen d. besten Meister, u. mit Fingersatz versehen</title>. <pubPlace key="place_0275">Halle</pubPlace>, <publisher key="publ_1953">Karmrodt</publisher> 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_23"><composer key="compo_027000">Preschern, Fr.Ch.</composer>, <title>Chanson d’Amour. Op. <opus key="opus_0806">15</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_4456">Witzendorf</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_24">– <title>Inquiétude. Morceau de Salon. Op. <opus key="opus_1165">18</opus></title>. Ebend. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_25"><composer key="compo_027128">Prossnitz, Ad.</composer>, <title>Elegie. Op. <opus key="opus_4300">8</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 12½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_26">– <title>Tarantelle. Op. <opus key="opus_4562">9</opus></title>. Ebend. 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0546_27">– <title>3 Impromptus faciles. 2e Suite. Op. <opus key="opus_0927">16</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 15 Ngr.</bibl>
+<wip id="hofm_1854_05_0546_28"><composer key="compo_027445">Raff, J.</composer>, <title>Tanz-Capricen. Op. <opus key="opus_3351">54</opus></title>. <title>No. 1, Walzer</title> (10 Ngr.) <title>No. 2, Mazurka. No. 3, Polka</title> (à 17½ Ngr.) <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher>.</wip>
+<bibl id="hofm_1854_05_0546_29"><composer key="compo_027627">Ravina, H.</composer>, <title>Dernier Souvenir. Pensee poetique. Op. <opus key="opus_2187">31</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 45 Xr.</bibl>
+<bibl id="hofm_1854_05_0546_30"><composer key="compo_028854">Rosellen, H.</composer>, <title>Fantaisie sur le Nabab, Opèra de F. Halevy, Op. <opus key="opus_0727">142</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 12 Xr.</bibl>
+<bibl id="hofm_1854_05_0546_31"><composer key="compo_028991">Roth, A.P.</composer>, <title>Les Hirondelles (Die Schwalben) Morceau de Salon. Op. <opus key="opus_2737">4</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_4456">Witzendorf</publisher> 10 Ngr.</bibl>
+<pb n="547"/>
+<bibl id="hofm_1854_05_0547_01"><composer key="compo_028990">Roth, A.</composer>, <title>La jeune Polonaise. Mazur dans le Style elegant. Op. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_4456">Witzendorf</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_02"><title>Rundschau (musikalisch-theatralische), herausg. v. H.M. Storch. 3ter Jahrg. No. 1, la Granadina. Andalusische Tänze</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> Subscr.-Pr. f. d. Jahrg. in 24 Lief. 3 Rt. 10 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0547_03"><title>Salon-Album, herausg. v. J.C. Metzger. 4ter Jahrg. No. 1, Bretagnisches Lied</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> Subscr.-Pr. f. d. Jahrg. in 24 Lief. 2 Rt. n.</bibl>
+<bibl id="hofm_1854_05_0547_04"><composer key="compo_029759">Satter, G.</composer>, <title>Mazourka de Concert</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_05">– <title>Valse, Etude et Marche</title>. Ebend. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_06"><composer key="compo_030439">Schlösser, Ad.</composer>, <title>Sérénade. Chant. Op. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0519">Offenbach</pubPlace>, <publisher key="publ_0065">André</publisher> 36 Xr.</bibl>
+<bibl id="hofm_1854_05_0547_07"><composer key="compo_032046">Senna, F.</composer>, <title>Quartetto nell’ Opera: Rigoletto, di Verdi, trascritto. Op. <opus key="opus_1165">18</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 3 Fr.</bibl>
+<bibl id="hofm_1854_05_0547_08"><composer key="compo_035089">Uhle, Fr.</composer>, <title>Transcriptionen. Lieder v. Marie König, No. 1, Ich hab’ im Traum geweint</title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_0416">Brauer</publisher> 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_09"><composer key="compo_035168">Unia, G.</composer>, <title>La Moda. 18 Morceaux élégants sur des Motifs des Opéras de G. Verdi. Op. <opus key="opus_4184">77. No. 16</opus>, Stiffelio</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 54 Xr.</bibl>
+<bibl id="hofm_1854_05_0547_10">– <title>Souvenir de l’Opera : La Traviata, di Verdi. Op. <opus key="opus_4601">91</opus></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 3½ Fr.</bibl>
+<bibl id="hofm_1854_05_0547_11"><composer key="compo_035758">Voss, Ch.</composer>, <title>12 Etudes en Style moderne. Op. <opus key="opus_4460">85</opus>. Cah. 1. 2. <edition>2me Edition</edition></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> à 22½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_12">– <title>Air italien. Op. <opus key="opus_0873">154</opus>. <edition>2me Edition</edition></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_13">– <title>Morceau élégant sur le Nabab, de F. Halevy. Op. <opus key="opus_1051">168</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl.</bibl>
+<bibl id="hofm_1854_05_0547_14">– <title>Les Battements du Coeur. Fantaisie-Etude. Op. <opus key="opus_1091">171</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_15">– <title>Ronde joyeuse. Couplets. Op. <opus key="opus_1107">172</opus></title>. Ebend. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_16"><composer key="compo_035993">Waldmüller, F.</composer>, <title>3 Rêveries. Op. <opus key="opus_4460">85</opus>. No. 1, Au Bord du Ruisseau. No. 2, Au Village. No. 3, Au Bal</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_4456">Witzendorf</publisher> à 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_17">– <title>Morceau de Salon sur des Motifs fav. de l’Opéra : Keolanthe, de M.W. Balfe. Op. <opus key="opus_0137">104</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_18"><composer key="compo_036195">Wartel, Therese</composer>, <title>Bruyère des Montagnes. Romance sans Paroles. Op. <opus key="opus_1482">21</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_19"><composer key="compo_036298">Wedemann, W.</composer> u. <composer key="compo_012008">A. Gressler</composer>, <title>Erholungsstunden am Clavier. Eine Sammlung v. leichten u. gef. Handstücken, bestehend a. Rondos, Variationen etc. Lief. 1. 2. <edition>2te umgearb. Aufl</edition></title>. 4. <pubPlace key="place_0720">Weimar</pubPlace>, <publisher key="publ_4216">Voigt</publisher> à 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_20"><composer key="compo_036882">Wickerhauser, Nathalie</composer>, <title>Scherzo. Op. <opus key="opus_1372">2</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 10 Ngr. </bibl><bibl id="hofm_1854_05_0547_21">– <title>Danse des Fées. Caprice. Op. <opus key="opus_2116">3</opus></title>. Ebend. 8 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_22"><composer key="compo_037246">Winterle, Ed.</composer>, <title>Souvenir de Baden. Romance. Op. <opus key="opus_2630">38</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 10 Ngr.</bibl>
+</div><div id="hofm_1854_05_0547_div10"><head><hofClass key="hofCl_0273">Ouverturen für das Pianoforte.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0547_23"><composer key="compo_023268">Meyerbeer, G.</composer>, <title>Ouverture zur Oper: Der Nordstern (L’Etoile du Nord)</title> <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3471">Schlesinger</publisher> 25 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_24"><composer key="compo_033881">Suppé, Fr. v.</composer>, <title>Ouverture zu Dichter und Bauer, eing. v. C.T. Brunner</title>. <pubPlace key="place_0475">München</pubPlace>, <publisher key="publ_0028">Aibl</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0547_25">– <title>Ouverture mit Benutzung dalmatinischer Volksmelodien</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 15 Ngr.</bibl>
+</div><div id="hofm_1854_05_0547_div11"><head><hofClass key="hofCl_0288">Tänze für das Pianoforte.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0547_26"><composer key="compo_000274">Albert, Ch. d’</composer>. <title>Margarita. Valse</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 12½ Ngr.</bibl>
+<wip id="hofm_1854_05_0547_27"><composer key="compo_002405">Berens, C.</composer>, <title>Tänze</title>. <title>No. 24, Tannhäuser-Polonaise</title> (5 Ngr.) <title>No. 25, Rös’chens Sehnsucht. Galopp. No. 26, der Hahnemann. Galopp</title> (à 7½ Ngr.) <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher>.</wip>
+<bibl id="hofm_1854_05_0547_28"><composer key="compo_003035">Binder, C.</composer>, <title>Theaterg’schichten-Polka</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 8 Ngr.</bibl>
+<pb n="548"/>
+<bibl id="hofm_1854_05_0548_01"><composer key="compo_003559">Bohlmann, H.</composer>, <title>Les Jeux floraux. Quadrille moyen-âge</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 36 Xr.</bibl>
+<bibl id="hofm_1854_05_0548_02">– <title>Le Tournoi. Quadrille chevaleresque</title>. Ebend. 36 Xr.</bibl>
+<bibl id="hofm_1854_05_0548_03"><composer key="compo_004979">Böhmer, C.</composer>, <title>Desperations-Walzer</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 5 Ngr.</bibl>
+<wip id="hofm_1854_05_0548_04"><title>Camara-Album. Spanische Nationaltänze aufgeführt v. Sennora Petra Camara</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher>. <lb/><title>Lief. 1, la Grandina. Andalusische Tänze (El Fandango. La Llegada. Boleras. La Gracia. La Guaracha, La Solebad. Finale)</title>. 20 Ngr. <lb/>– <title>2, la Valenciana. Andalusische Tänze</title>. 20 Ngr.</wip>
+<bibl id="hofm_1854_05_0548_05"><composer key="compo_005254">Canziani, P.</composer>, <title>La Ferrolana. Polka</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_06">– <title>La Quillotana. Polka</title>. Ebend. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_07"><title>Charmes de la Danse. Sammlung bel. Tänze. Lief. 3 (No. 12–16)</title> <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_08"><composer key="compo_006354">Daase, R.</composer>, <title>Vereinigungs-Quadrille. Op. <opus key="opus_2996">45</opus></title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_0199">Bauer</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_09">– <title>Souvenir-Polka. Op. <opus key="opus_3029">46</opus></title>. Ebend. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_10"><composer key="compo_007167">Dombrowska, Mdme</composer>, <title>Polka-Mazurka</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0589">Challier u. Co</publisher>. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_11"><composer key="compo_007224">Doppler, J.H.</composer>, <title>Musikanten-Polka. Op. <opus key="opus_1085">170</opus></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_12"><composer key="compo_007618">Dydynski, L. v.</composer>, <title>Gruss an Wien. Walzer. Op. <opus key="opus_0001">1</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_13">– <title>2 Polka-Mazurkas. Op. <opus key="opus_1372">2</opus>. No. 1, la Germandrée (Vergissmeinnicht) No. 2, Oeillet (Nelke)</title> <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> à 7 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_14">– <title>Heimaths-Klänge. Mazur. Op. <opus key="opus_2116">3</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_15">– <title>Beseda-Polka. Op. <opus key="opus_2737">4</opus></title>. Ebend. 8 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_16">– <title>Jahreswechsel. Walzer. Op. <opus key="opus_3181">5</opus></title>. Ebend. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_17"><composer key="compo_008002">Ehrlich, A.H.</composer>, <title>s’Hoamweh! Ländler</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_18">– <title>Wanderer-Polka</title>. Ebend. 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_19"><composer key="compo_008182">Elbel, V.</composer>, <title>Blitz-Galopp</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_20"><composer key="compo_008982">Fehrmann, G</composer>, <title>Grussan den Herbst. Tyrolienne</title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_2661">Meser</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_21"><composer key="compo_011213">Giese, Th.</composer>, <title>El Correo. Grand Galopp</title>. <pubPlace key="place_0276">Hamburg</pubPlace>. <publisher key="publ_2870">Niemeyer</publisher> 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_22">– <title>Eugenie. Polka-Mazurka</title>. Ebend. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_23">– <title>La Favorite. Redowa</title>. Ebend. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_24">– <title>Sarah-Polka</title>. Ebend. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_25">– <title>Seraphine. Polka-Mazurka</title>. Ebend. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_26">– <title>El Toreador. Schottisch</title>. Ebend. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_27"><sic><composer key="compo_015758">ässner, H.</composer></sic>, <title>12 Mode-Tänze. Op. <opus key="opus_3565">6</opus> (4 Walzer, 4 Polka, 4 Galoppen)</title> <pubPlace key="place_0594">Rudolstadt</pubPlace>, <publisher key="publ_2779">Müller</publisher> 12 Ngr. n.</bibl>
+<wip id="hofm_1854_05_0548_28"><composer key="compo_014009">Held, A.</composer>, <title>Imperiale</title>. <title>Varsoviana</title>. <title>Sicilienne</title> (à 5 Ngr.) Op. <opus key="opus_0927">16</opus>. <pubPlace key="place_0436">Magdeburg</pubPlace>. <publisher key="publ_1560">Heinrichshofen</publisher> 10 Ngr.</wip>
+<bibl id="hofm_1854_05_0548_29">– <title>Quadrille aus der Oper: Tannhäuser, v. R. Wagner. Op. <opus key="opus_1068">17</opus></title>. Ebend. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_30"><composer key="compo_014569">Herzberg, Ant.</composer>, <title>La belle Viennoise. Polka-Mazurka. Op. <opus key="opus_3967">7</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 7 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_31">– <title>Graziosa. Ophelia. 2 Polka-Mazurkas. Op. <opus key="opus_0392">12</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_32"><composer key="compo_015089">Hoffmann, Th.</composer>, <title>Polka-Mazurka. Op. <opus key="opus_1372">2</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0589">Challier u. Co</publisher>. 7½ Ngr.n.</bibl>
+<bibl id="hofm_1854_05_0548_33"><composer key="compo_016344">Jelinek, Ign.</composer>, <title>L’Amitié Polka. Op. <opus key="opus_1932">27</opus></title>. <pubPlace key="place_0554">Prag</pubPlace>, <publisher key="publ_0282">Berra</publisher> 7 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_34"><composer key="compo_016571">Jullien</composer>, <title>Tänze. No. 10, Derby-Galopp</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_35"><composer key="compo_016599">Jungmann, A.</composer>, <title>Polka-Mazurka. Op. <opus key="opus_3029">46</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_36"><composer key="compo_016840">Kalliwoda, J.W.</composer>, <title>3 Polkas. Op. <opus key="opus_1346">199. No. 1–3</opus></title>. <pubPlace key="place_0392">Leipz</pubPlace>., <publisher key="publ_3023">Peters</publisher> à 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_37"><composer key="compo_017006">Katakuzenos, A.</composer>, <title>Antoinette-Polka</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_38"><composer key="compo_017081">Kaulich, J.</composer>, <title>Camara-Polka. Op. <opus key="opus_1068">17</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 7 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_39">– <title>Savoyarden-Quadrille. Op. <opus key="opus_1165">18</opus></title>. Ebend. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_40">– <title>Sommernachtstraum-Quadrille. Op. <opus key="opus_1271">19</opus></title>. Ebend. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_41">– <title>Polka-Mazurka. Op. <opus key="opus_1390">20</opus></title>. Ebend. 7 Ngr.</bibl>
+<bibl id="hofm_1854_05_0548_42"><composer key="compo_017522">Kirsten, C.</composer>, <title>Polka-Mazurka über das bel. Lied: Mein Oestreich</title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_0199">Bauer</publisher> 5 Ngr.</bibl>
+<pb n="549"/>
+<bibl id="hofm_1854_05_0549_01"><composer key="compo_019182">Kunze, G.</composer>, <title>Tyroler-Walzer</title>. <pubPlace key="place_0147">Dresden</pubPlace>. <publisher key="publ_2661">Meser</publisher> 2 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_02"><composer key="compo_020009">Lanner, A.J.</composer>, <title>Kränzchen Stammblätter. Walzer. Op. <opus key="opus_0531">13</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_03"><composer key="compo_020071">L(assalaye), S. v.</composer>, <title>Louisen-Galopp</title>. <pubPlace key="place_0339">Carlsruhe</pubPlace>, <publisher key="publ_1095">Frey</publisher> 18 Xr.</bibl>
+<bibl id="hofm_1854_05_0549_04"><composer key="compo_020256">Lecarpentier, A.</composer>, <title>Marco Spada. Opèra d’Auber. Quadrille fac</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 36 Xr.</bibl>
+<bibl id="hofm_1854_05_0549_05"><composer key="compo_020503">Lemoine, H.</composer>, <title>Nouvelles Quadrilles sur des Thèmes des Operas fav. No. 13, Ricci, un Avencura di Scaramuccia</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_06"><composer key="compo_022325">Martin, H.</composer>, <title>Arabella. Grande Valse</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_07">– <title>Rhein-Polka über das Lied: Mein Herz ist am Rhein</title>. Ebd. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_08"><composer key="compo_023213">Meyer, E.</composer>, <title>Wachtel-Polka</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_09"><composer key="compo_025815">Pasdeloup, J.</composer>, <title>Pastorella. Polka-Mazurka</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 27 Xr.</bibl>
+<bibl id="hofm_1854_05_0549_10"><title>Pepita-Album. Spanische Nationaltänze, aufgef. v. Sgra. Pepita d’Oliva (La Madrilena. El Ole. Jaleo de Xeres. Aragonaise. La Cachucha. Pepita-Polka. Pepita-Marsch. Pepita-Tänze)</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 1 Rt.</bibl>
+<wip id="hofm_1854_05_0549_11"><composer key="compo_026109">Pertl, V.</composer>, <title>Sammlung neuer Tänze</title>, <title>No. 1, Grazien-Polka-Mazurka</title>. 5 Ngr. <title>No. 2, Die Sonnenstrahlen. Walzer</title>. 15 Ngr. <title>No. 5, Vergissmeinnicht-Polka</title>. 5 Ngr. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0589">Challier u. Co</publisher>.</wip>
+<bibl id="hofm_1854_05_0549_12"><composer key="compo_026670">Plothow, L.</composer>, <title>La Varsoviana. Polka</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0589">Challier u. Co</publisher>. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_13"><composer key="compo_027191">Puffholdt, E</composer>, <title>Eine Winterblüthe. Polka</title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1930">Kahnt</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_14"><composer key="compo_027862">Rein, A.</composer>, <title>Hamburger-Schottisch</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_15">– <title>Yankee-Polka</title>. Ebend. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_16"><composer key="compo_027935">Reinisch, S.</composer>, <title>Teufelsgeige-Quadrille (Violon du Diable) nach Motiven a. d. Ballet: Die Zaubergeige</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_17"><composer key="compo_028461">Ringelsberg, Mathilde</composer>, <title>Polka und Mazurka</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_18"><composer key="compo_029830">Sawerthal, J.R.</composer>, <title>Danilo-Quadrille</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_19"><composer key="compo_030426">Schlottmann, L.</composer>, <title>Valse-Caprice. Op. <opus key="opus_2737">4</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 12½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_20"><composer key="compo_031347">Schumann, Friedr.J.</composer>, <title>Gruss an den Frühling. 2 Polkas</title>. <pubPlace key="place_0297">Herzberg</pubPlace>, <publisher key="publ_2728">Mohr</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_21"><title>Seguidilla (la), Spanischer Nationaltanz</title>. <pubPlace key="place_0731">Wien</pubPlace>. <publisher key="publ_1269">Glöggl</publisher> 7 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_22"><composer key="compo_032679">Spahrmann, C.</composer>, <title>Marien-Tyrolienne</title>. <pubPlace key="place_0205">Freiberg</pubPlace>, <publisher key="publ_4465">Wolf</publisher> 5 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0549_23"><composer key="compo_033569">Strauss, Joh.</composer>, <title>Wellen u. Wogen. Walzer. Op. <opus key="opus_0720">141</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_24">– <title>Wiedersehen-Polka. Op. <opus key="opus_0727">142</opus></title>. Ebend. 7 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_25"><composer key="compo_034104">Tallian, J. v.</composer>, <title>Faschings-Polka</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 7 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_26"><composer key="compo_035760">Voss, F.M.</composer>, <title>Louisen- u. Antonien-Polka-Mazurka. Op. <opus key="opus_0001">1</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0589">Challier u. Co</publisher>. 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_27"><composer key="compo_036036">Wallerstein, A.</composer>, <title>La Maltaise (Die schöne Malteserin) Polka. Op. <opus key="opus_4639">93</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 27 Xr.</bibl>
+<bibl id="hofm_1854_05_0549_28"><composer key="compo_036994">Wieprecht, W.</composer>, <title>Alexandrinen-Polka</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_29">– <title>Louisen-Polka</title>. Ebend. 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_30">– <title>Original-Quadrille</title>. Ebend. 12½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_31"><composer key="compo_037230">Winter, Justine</composer>, <title>Cantsfield-Polka</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_32"><composer key="compo_037246">Winterle, E.</composer>, <title>Wiener Salon-Polka. Op. <opus key="opus_2764">40</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_33"><composer key="compo_037349">Wittmann, R.</composer>, <title>Jugenderinnerungen. Walzer. Op. <opus key="opus_3565">6</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_34"><composer key="compo_038079">Zichy-Stubenberg, Gräfin Anna</composer>, <title>Valet-Polka. Op. <opus key="opus_0234">11</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_35">– <title>Antonia-Quadrille. Op. <opus key="opus_0392">12</opus></title>. Ebend. 10 Ngr.</bibl>
+</div><div id="hofm_1854_05_0549_div12"><head><hofClass key="hofCl_0250">Märsche für das Pianoforte.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0549_36"><composer key="compo_002405">Berens, C.</composer>, <title>Gitana-Marsch (No. 27.)</title> <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0549_37"><composer key="compo_005672">Chwatal, F.X.</composer>, <title>Türkischer Sturmmarsch. (Klänge der Neuzeit. Op. <opus key="opus_4521">88. No. 11</opus>.)</title> <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 5 Ngr.</bibl>
+<pb n="550"/>
+<bibl id="hofm_1854_05_0550_01"><composer key="compo_013156">Hamm, J.V.</composer>, <title>Sultan-Marsch (im türkischen Style)</title> <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 18 Xr.</bibl>
+<bibl id="hofm_1854_05_0550_02"><composer key="compo_037938">Zawerthal, V.H.</composer>, <title>Sommernachtstraum-Marsch</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 10 Ngr.</bibl>
+</div><div id="hofm_1854_05_0550_div13"><head><hofClass key="hofCl_0072">Lehrbücher für das Pianoforte.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0550_03"><composer key="compo_010041">Friedrich, E.F.</composer>, u. <composer key="compo_017975">J. Knorr</composer>, <title>Pianoforteschule. <edition>2te Aufl</edition></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_2828">Naumburg</publisher> 1 Rt. 15 Ngr.</bibl>
+</div><div id="hofm_1854_05_0550_div14"><head><hofClass key="hofCl_0068">Kirchenmusik.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<wip id="hofm_1854_05_0550_04"><title>Caecilia. Sammlung von Compositionen alter ital. Meister, f. Sopr., Alt, Ten. u. Bass., herausgeg. v. O. Braune. 1ster Jahrg. Lief. 1–6</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher>. <lb/><title>Lief. 1, <composer key="compo_029860">Scarlatti, A.</composer>, Missa</title>. <format>Partit</format>. (20 Ngr.) <format>Stimmen</format> à 7½ Ngr.) 1 Rt. 20 Ngr. <lb/>– <title>2, <composer key="compo_009334">Fioroni</composer>, Christus factus. <composer key="compo_026059">Perez</composer>, Media nocte. <composer key="compo_020556">Leo</composer>, Tu es sacerdos. <composer key="compo_007551">Durante</composer>, Qui tollis peccata</title>. <format>Part</format>. (25 Ngr.) <format>Stimmen</format> (à 7½ Ngr.) 1 Rt. 25 Ngr. <lb/>– <title>3, <composer key="compo_002722">Bertoni</composer>, Crucifixus. <composer key="compo_005178">Caldara</composer>, Psalm 147. m. Orgel</title>. <format>Part</format>. (1 Rt.) <format>Stimmen</format> (à 7½ Ngr.) 2 Rt. <lb/>– <title>4, <composer key="compo_006038">Corsi</composer>, Adoramus te. <composer key="compo_002581">Bernabei</composer>, O sacrum convivium. <composer key="compo_000406">Allegri</composer>, Veni sancte spiritus. <composer key="compo_016481">Jomelli</composer>, In monte oliveti</title>. <format>Part</format>. (20 Ngr.) <format>Stimmen</format> (à 7½ Ngr.) 1 Rt. 20 Ngr. <lb/>– <title>5, <composer key="compo_022345">Martini</composer>, Magnificat. <composer key="compo_021341">Lotti</composer>, Psalm 120. <composer key="compo_016481">Jomelli</composer>, Hosanna</title>. <format>Part</format>. (1 Rt.) <format>Stimmen</format> (à 7½ Ngr.) 2 Rt. <lb/>– <title>6, <composer key="compo_005282">Carapella</composer>, Miserere. <composer key="compo_000048">Abos</composer>, Kyrie</title>. <format>Part</format>. (1 Rt.) <format>Stimmen</format> (à 10 Ngr.) 2 Rt. 10 Ngr.</wip>
+<bibl id="hofm_1854_05_0550_05"><composer key="compo_005178">Caldara, Ant.</composer>, <title>Te Deum laudamus, f. Sopr., Alt, Ten. u. Bass</title>. <format>Singstimmen</format> 8. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0550_06"><composer key="compo_017664">Klein, B.</composer>, <title>Kyrie eleison f. Sopr., Alt, Ten. u. Bass. Op. <opus key="opus_3029">46</opus></title>. <format>Part. u. Stimmen</format> (à 1¼ Ngr.) 8. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 13¼ Ngr.</bibl>
+<bibl id="hofm_1854_05_0550_07"><composer key="compo_018053">Kocher, C.</composer>, <title>Zionsharfe. Ein Choralschatz aus allen Jahrhunderten u. von allen Confess. d. christl. Kirche f. Singechöre, Orgel u. Klavierspiel vierst. bearb. Lief. 6, 7</title>. gr. 8. <pubPlace key="place_0662">Stuttgart</pubPlace>, <publisher key="publ_2669">Metzler</publisher> geh. à 15 Ngr. *n.</bibl>
+<bibl id="hofm_1854_05_0550_08"><composer key="compo_021557">Lvoff, A.</composer>, <title>Stabat-Mater (Gebet am Kreuze). <format>Vollständ. Klavierauszug</format></title>. <pubPlace key="place_0731">Wien</pubPlace>. <publisher key="publ_1269">Glöggl</publisher> 2 Rt. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0550_09"><composer key="compo_023890">Mozart, W.A.</composer>, <title>Misericordias Domini (f. Sopr., Alt, Ten. u. Bass). <format>Klavierausz</format>. v. G. Nottebohm</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 25 Ngr.</bibl>
+<bibl id="hofm_1854_05_0550_10"><composer key="compo_024119">Mühlbrecht, Th.</composer>, <title>Der 100ste Psalm. Cantate f. vierst. Männerch. u. Solo mit (od. ohne) Orgel. Op. <opus key="opus_1372">2</opus></title>. <format>Part</format>. 7½ Ngr. <format>Stimmen</format> 8 Ngr. 8. <pubPlace key="place_0615">Schleusingen</pubPlace>, <publisher key="publ_1260">Glaser</publisher>.</bibl>
+<wip id="hofm_1854_05_0550_11"><composer key="compo_027982">Reissiger, C.G.</composer>, <title>6 dreistimm. Hymnen f. 2 Sopr. u. Alt. Op. <opus key="opus_1424">202</opus></title>. 8. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher>. <lb/><title>Heft 1, Habe deine Lust. Deinen stillen Willen. Barmherzig u. gnädig</title>. <format>Partitur</format> (10 Ngr.) <format>Stimmen</format> (à 2½ Ngr.) 20 Ngr. <lb/>– <title>2, Herr lehre mich. Wohl dem, der den Herrn fürchtet. Ein weises Herz</title>. <format>Partit</format>. (16¼ Ngr.) <format>Stimmen</format> (à 3¼ Ngr.) 25 Ngr.</wip>
+<bibl id="hofm_1854_05_0550_12"><composer key="compo_034168">Taubert, W.</composer>, <title>Vater Unser. Psalm v. Klopstock f. Solo, Chor u. Orchester. <format>Partitur mit unterlegtem Klavierauszug</format>. Op. <opus key="opus_4502">87</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 2 Rt. 22½ Ngr.</bibl>
+</div><div id="hofm_1854_05_0550_div15"><head><hofClass key="hofCl_0020">Gesangstücke für Concertmusik mit Begleitung des Orchesters.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0550_13"><composer key="compo_007224">Doppler. J.H.</composer>, <title>Was will denn das Herz? f. eine Singst. m. Pfte u. Waldhorn (ad lib.) Op. <opus key="opus_0768">146</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 10 Ngr.</bibl>
+</div><pb n="551"/><div id="hofm_1854_05_0551_div16"><head><hofClass key="hofCl_0102">Mehrstimmige Gesänge mit und ohne Pianoforte.</hofClass></head>
+
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0551_01"><composer key="compo_003011">Billert, C.</composer>, <title>Der Liebesgarten. Duett m. Pfte. Op. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0589">Challier u. Co</publisher>. 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0551_02"><composer key="compo_005894">Commer, Fr.</composer>, <title>Volkslieder f. Sopr., Alt, Ten. u. Bass. Lief. 1. Engellieb zu Weihnachten. Dein Schutzengel. Sandmännchen. <format>Part. u. Stimmen</format></title> (à 2½ Ngr.) 8. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0551_03"><composer key="compo_005904">Concone, J.</composer>, <title>Les Brises du Printemps (Die Frühlingslüfte) Nocturne à 2 Voix av. Pfte</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 36 Xr.</bibl>
+<bibl id="hofm_1854_05_0551_04">– <title>Les voix qui consolent (Stimmen des Trostes) Nocturne sentimentale à 2 Voix av. Pfte</title>. Ebend. 54 Xr.</bibl>
+<bibl id="hofm_1854_05_0551_05"><composer key="compo_008497">Erk, L.</composer>, <title>Mehrstimmige Gesänge f. Männerst. f. Seminarien etc. 1stes Heft. <edition>5te Aufl</edition></title>. 4. <pubPlace key="place_0184">Essen</pubPlace>, <publisher key="publ_0534">Bädeker</publisher> 20 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0551_06">– <title>Deutscher Liederhort. Auswahl der vorzügl. deutschen Volkslieder mit ihren eigenth. Melodien. 3te Lief</title>. gr. 8. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0932">Enslin</publisher> geh. 10 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0551_07"><composer key="compo_008497">Erk, L.</composer> u. <composer key="compo_011935">W. Greef</composer>, <title>Liederkranz. Auswahl heiterer u. ernster Gesänge f. Schule, Haus u. Leben. 1stes Heft. <edition>15te Aufl</edition></title>. 8. <pubPlace key="place_0184">Essen</pubPlace>, <publisher key="publ_0534">Bädeker</publisher> 5 Ngr. n.</bibl>
+<wip id="hofm_1854_05_0551_08"><title>Ernst und Scherz. Originalcompositionen f. Liedertafeln (4 Männerst.) 48tes Heft</title>, <composer key="compo_000058">Abt</composer>, <title>der deutsche Männergesang</title>. <composer key="compo_027982">Reissiger, C.G.</composer>, <title>Wanderlied</title>. <composer key="compo_025516">Otto, Jul.</composer>, <title>Herbstlied u. der Morgen im Walde</title>. <composer key="compo_024053">Möhring</composer>, <title>In der Fremde u. das treue Ross</title>. 8. <format>Partitur</format> 9 Ngr. <format>Stimmen</format> (à 2½ Ngr.) 10 Ngr. <pubPlace key="place_0615">Schleusingen</pubPlace>, <publisher key="publ_1260">Glaser</publisher>.</wip>
+<bibl id="hofm_1854_05_0551_09"><composer key="compo_009555">Flügel, G.</composer>, <title>Preussische Königs-, Helden-, Kriegs- u. Sieges-Lieder zum Gebr. in Schulen u. der Armee, f. Kinder- u. Männerstimmen. Op. <opus key="opus_2458">35</opus></title>. qu.-8. <pubPlace key="place_0501">Neuwied</pubPlace>, <publisher key="publ_1655">Heuser</publisher> geh. 4 Ngr. *n.</bibl>
+<wip id="hofm_1854_05_0551_10"><composer key="compo_011689">Gordigiani, L.</composer>, <title>Gli Amici (die Freunde). 10 Duetti p. Canto con Pfte</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher>. <lb/><title>No. 1, Chi mi tiene il Cor (Was mir das Herz gefangen) Melodia p. Ten. (o Sopr.) e Barit. (o Alto)</title> 27 Xr. <lb/>– <title>2, La Gita in Gondola (Die Gondelfahrt) Melodia p. do. do</title>. 36 Xr. <lb/>– <title>3, Le due Fanciulle (Die zwei Mägdelein). Duettino p. 2 Sopr</title>. 36 Xr. <lb/>– <title>4, Sempre uniti (Die ewig Vereinten). Notturno p. Sopr. e Ten</title>. 27 Xr. <lb/>– <title>5, Gli Occhi ed i Capelli (Die Augen und die Haare). Duettino p. Sopr. e Barit</title>. 36 Xr.</wip>
+<bibl id="hofm_1854_05_0551_11"><composer key="compo_011780">Graben-Hoffmann</composer>, <title>Fort auf die See. Duett f. Ten. u. Bass (od. Sopr. u. Alt) m. Pfte. Op. <opus key="opus_1802">25</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0551_12"><composer key="compo_019079">Kuhn, E.</composer>, <title>6 neue dreist. Schullieder. Op. <opus key="opus_2948">44</opus></title>. qu.-12. <pubPlace key="place_0339">Carlsr</pubPlace>., <publisher key="publ_1095">Frey</publisher> 9 Xr. n.</bibl>
+<bibl id="hofm_1854_05_0551_13"><composer key="compo_026302">Pfeiffer, W.</composer>, <title>2 geistliche Lieder f. Sopr., Alt, Ten. u. Bass. Op. <opus key="opus_2116">3</opus> (Agnus Dei. Gebet.) <format>Part. u. Stimmen</format></title>. 8. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 20 Ngr.</bibl>
+<bibl id="hofm_1854_05_0551_14"><composer key="compo_027185">Pucitta</composer>, <title>Un palpito mi sento. Duettino f. 2 Sopr. m. Pfte</title>. <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0551_15"><composer key="compo_035464">Vierling, G.</composer>, <title>Zechcantate. Die alten und die jungen Zecher, v. R. Reinick, f. Männerchor m. Pfte</title>. <format>Klavierauszug</format> (22½ Ngr.) <format>Stimmen</format> (à 5 Ngr.) <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 1 Rt. 12½ Ngr.</bibl>
+</div><div id="hofm_1854_05_0551_div17"><head><hofClass key="hofCl_0268">Opernmusik mit Pianofortebegleitung.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<wip id="hofm_1854_05_0551_16"><composer key="compo_004841">Buzzi, A.</composer>, <title>Il Convito di Baldasare. Tragedia lirica</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher>. <listBibl rend="curly"><bibl><seg><title>No. 2, Rec. e Preghiera (Barit.) A te devota</title></seg><seg id="hofm_1854_05_0551_16_1" rend="curly-left">.4 Fr. </seg></bibl><bibl><seg>– <title>5, Cabaletta (Barit.) Babilonia i tuoi</title></seg><seg sameAs="hofm_1854_05_0551_16_1">.</seg></bibl></listBibl></wip>
+<pb n="552"/>
+<wip id="hofm_1854_05_0552_01"><composer key="compo_004841">Buzzi, A</composer>, <title>Il Convito di Baldasare. Tragedia lirica</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher>. <lb/><title>No. 6, Sc. e Cavatina (Contralto) Se il Ciel de miseri</title>. 4 Fr. <lb/>– <title>8, Sc. e Cavatina (Sopr.) Ove ne andaste</title>. 2¾ Fr. <lb/>– <title>9, Sc. e Duetto (Sopr. e Ten) Che ascolto</title> 4½ Fr. <lb/>– <title>10, Rec. ed Aria (Basso) Or mentre le nubi</title> 2 Fr. <lb/>– <title>17, Sc. ed Aria (Barit.) Diman su te</title> 3 Fr. <lb/>– <title>25, Sc. e Duetto (Sopr. e Ten) Or va securo</title> 4½ Fr.</wip>
+<wip id="hofm_1854_05_0552_02"><composer key="compo_005168">Cagnoni, A.</composer>, <title>La Valle d’Andora. Melodramma semiserio</title>. <pubPlace key="place_0437">Mail</pubPlace>., <publisher key="publ_2495">Lucca</publisher>. <lb/><title>Rec. Sc. e Cavatina (Buffo) Ecco, o miei belle</title>. 5 Fr. <lb/><title>Rec. ed Aria (Sopr.) Ah! non sappia</title>. 3½ Fr.</wip>
+<wip id="hofm_1854_05_0552_03"><composer key="compo_023268">Meyerbeer, G.</composer>, <title>Der Nordstern (L’Etoile du Nord) Opera comique</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3471">Schlesinger</publisher>. <lb/><title>No. 1, Trinkchor: Finnland soll leben (A la Finlande buvons)</title> 20 Ngr. <lb/>– <title>3, Arie u. Terzett (Sopr., Ten. u. Bass) Seine Mütz’ auf dem Ohre (Le bonnet sur l’oreille)</title> 20 Ngr. <lb/>– <title>4, Arie (Sopr.) Ach welche Angst (Ah ! que j’ai peur)</title> 17½ Ngr.</wip>
+<bibl id="hofm_1854_05_0552_04"><composer key="compo_025594">Pacini, J.</composer>, <title>Bondelmonte. Tragedia lirica. Cavatina (Sopr.) Sovente orrenda voce</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 3 Fr.</bibl>
+<bibl id="hofm_1854_05_0552_05"><composer key="compo_025972">Pedrotti, C.</composer>, <title>Fiorina, o la Fanciulla di Glaris. Melodramma semiserio. <format>Riduzione p. Canto con Pfte</format></title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_3241">Ricordi</publisher> geh. 38 Fr.</bibl>
+<wip id="hofm_1854_05_0552_06"><composer key="compo_026207">Petrella, E.</composer>, <title>Marco Visconti. Melodramma tragico</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher>. <lb/><title>No. 3, Sc. e Cavatina (Sopr.) In placida notte</title>. 4½ Fr. <lb/>– <title>5, Duettiuo (Sopr. e Ten.) Finchè mi è dato</title>. 2 Fr. <lb/>– <title>6, Terzetto (Sopr., Ten. e Basso) Se fuggir</title>. 5 Fr. <lb/>– <title>8, Sc. e Romanza (Barit.) Tu beato alfin</title>. 1¾ Fr. <lb/>– <title>11, Sc. Canzone e Ballata (Contralto) Rondinella</title>. 5 Fr. <lb/>– <title>13, Sc. ed Aria (Barit.) Ei mi appar</title>. 3 Fr.</wip>
+<wip id="hofm_1854_05_0552_07"><composer key="compo_028962">Rossi, L.</composer>, <title>L’Alchimista. Melodramma</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher>. <lb/><title>Duetto (2 Sopr.) Ahi qual maligno</title>. 5 Fr. <lb/><title>Sc. e Duetto (Sopr. e Ten) Pria m’uccidi</title>. 5 Fr. <lb/><title>Cabaletta (Sopr. e Contralto) Nei giorni</title>. 3½ Fr.</wip>
+<bibl id="hofm_1854_05_0552_08"><composer key="compo_035403">Verdi, G.</composer>, <title>Ernani. Oper für den Umfang jeder Stimme m. Pfte (mit deutschem u. italienischem Texte) eing. v. A. Diabelli</title>. (Melodicon Cah. 31. 32.) 8. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> geh. 2 Rt. 10 Ngr.</bibl>
+</div><div id="hofm_1854_05_0552_div18"><head><hofClass key="hofCl_0040">Gesänge für eine Stimme mit Begleitung des Pianoforte.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0552_09"><composer key="compo_000577">Anacker, F.A.</composer>, <title>Silberblick, Arie f. Ten. (od. Sopr.) aus Bergmannsgruss</title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0552_10"><composer key="compo_003035">Binder, C.</composer>, <title>Die Blume und der Sänger, aus Saphir’s wilden Rosen, f. Sopr. (od. Ten.) Wiener-Liederkranz. 5te Lief</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0552_11">– Idem f. Alt (od. Barit.) Ebend. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0552_12"><composer key="compo_003140">Biziste, L.</composer>, <title>Andenken. Gedicht v. Matthisson, f. Ten. Op. <opus key="opus_0001">1</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0552_13"><composer key="compo_003364">Blumner, M</composer>, <title>Lebensfrage. Op. <opus key="opus_0009">1. No. 2</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0552_14">– <title>3 Gedichte v. O. Roquette, Op. <opus key="opus_2116">3</opus> (In der Fremde. Im Sturm binich gangen. Zu deinen Füssen will ich ruhn)</title>. Ebd. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0552_15"><composer key="compo_005904">Concone, J.</composer>, <title>Il Crepusculo (Die Abenddämmerung). Melodia</title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 27 Xr.</bibl>
+<bibl id="hofm_1854_05_0552_16">– <title>La Sposa dell’Esule (Die Gattin des Verbannten) Scena ed Aria p. Soprano</title>. Ebend. 54 Xr.</bibl>
+<pb n="553"/>
+<bibl id="hofm_1854_05_0553_01"><composer key="compo_007224">Doppler, J.H.</composer>, <title>Alpenunschuld. Gedicht v. J.N. Vogl. Op. <opus key="opus_0860">153</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 7½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_02">– <title>Ich kenne deinen Namen nicht. Lied. Op. <opus key="opus_1128">175</opus></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 7½ Ngr.</bibl>
+<wip id="hofm_1854_05_0553_03"><composer key="compo_007969">Ehlert, L.</composer>, <title>6 Hafislieder. Op. <opus key="opus_1584">22</opus></title>. <title>Zu der Rose</title>. <title>Ich bin ein armes Lämpchen</title>. <title>Freue dich</title>. <title>Ich dachte dein</title>. <title>Ist dir ein getrenes</title>. <title>Mein Gedanke</title> (à 5 Ngr.) <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 17½ Ngr.</wip>
+<bibl id="hofm_1854_05_0553_04"><composer key="compo_008692">Evers, C.</composer>, <title>2 Lieder aus d. Englischen v. Freiligrath. Op. <opus key="opus_3586">60</opus> Willstkommen zur Laube. Der Troubadour</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_05"><composer key="compo_009508">Fliegel, C.W.</composer>, <title>8 Lieder. Op. <opus key="opus_3565">6</opus> (In der Morgenfrühe. Sie haben’s gut. Die Nachtfahrt. Stille Thränen. Schwaneslied. Abendlied. Die Sternlein. Kreuz.)</title> <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 22½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_06">– <title>8 Lieder. Op. <opus key="opus_3967">7</opus> (Morgenlied. Der himmlische Knabe. Vineta. Dertreue Gefährte. Ersonne dich. O Menschenherz. Die reiche Liebe. Abendlied des Wanderers)</title>. Ebend. 22½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_07"><composer key="compo_009850">Franz, R.</composer>, <title>6 Gesänge. Op. <opus key="opus_1482">21</opus> (Willkommen mein Wald. Denk’ ich dein. O Mond, o lösch’ dein goldnes Licht. Liebesfeier. Winternacht. Verlass’ mich nicht)</title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_4382">Whistling</publisher> 25 Ngr.</bibl>
+<wip id="hofm_1854_05_0553_08"><composer key="compo_010691">Gartner, Fr.</composer>, <title>6 Lieder. Op. <opus key="opus_4562">9</opus>. Heft 1. 2</title>. <pubPlace key="place_0276">Hamb</pubPlace>., <publisher key="publ_2870">Niemeyer</publisher> à 15 Ngr. <lb/><title>Heft 1, Ständchen. Wie gerne dir zu Füssen. Juchhe</title>.
+<lb/>– <title>2, Die einsame Thräne. Stilles Leben. Grosser Zweifel</title>.</wip>
+<bibl id="hofm_1854_05_0553_09"><composer key="compo_011780">Graben-Hoffmann</composer>, <title>Des Fischers Nachruf. Romanze. Op. <opus key="opus_1731">24</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_10"><composer key="compo_012011">Gressler, F.A.</composer>, <title>Anthologie f. Gesang. (Sammlung auserlesener Lieder u. Gesänge). Op. <opus key="opus_2737">4</opus>. (Lief. 1–6.)</title> <pubPlace key="place_0386">Langensalza</pubPlace>, <publisher key="publ_3618">Schulbuchdl</publisher>. geh. 2 Rt. *n.</bibl>
+<wip id="hofm_1854_05_0553_11"><composer key="compo_012499">Gumbert, Ferd.</composer>, <title>3 Lieder f. Sopr. (od. Ten) Op. <opus key="opus_3738">63</opus></title>. <title>No. 1, der Liebe Obdach</title> (10 Ngr.) <title>No. 2, Wenn du im Traum wirst fragen</title> (10 Ngr.) <title>No. 3, Wie soll ich dich nennen</title> (7½ Ngr.) <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 20 Ngr.</wip>
+<bibl id="hofm_1854_05_0553_12"><composer key="compo_012998">Hahn, Ed.</composer>, <title>Ueber den Sternen. Gedicht v. J. Gräfin Hahn-Hahn</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_13"><composer key="compo_014394">Hermann, N.</composer>, <title>Ich bin nun einmal so! Op. <opus key="opus_3565">6</opus></title>. (Gesangbibliothek. No. 18.) <pubPlace key="place_0594">Rudolstadt</pubPlace>, <publisher key="publ_2779">Müller</publisher> 3 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0553_14"><composer key="compo_015819">Hölzel, G.</composer>, <title>Süsser Tod, v. S. Tauber. Op. <opus key="opus_4017">71</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_4456">Witzendorf</publisher> 8 Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_15">– <title>Frage nicht! Gedicht v. N. Lenau. Op. <opus key="opus_4045">72</opus></title>. Ebend. 8 Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_16">– <title>Die Frage. Gedicht v. A. Ander, f. Sopr. (od. Ten.) Op. <opus key="opus_4580">90</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_17">– Idem für Alt (od. Barit.) Ebend. 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_18">– <title>Hans u. der Sperling. Gedicht v. C. Herlossohn. Op. <opus key="opus_4601">91</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0553_19"><composer key="compo_017664">Klein, B.</composer>, <title>5 Lieder. Op. <opus key="opus_3041">46 posth</opus>. (Mailied. Die Haide sei mein. Ave Maria. Rastlose Liebe. Die Fischerin.)</title> <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 22½ Ngr.</bibl>
+<wip id="hofm_1854_05_0553_20"><composer key="compo_018169">Kolb, J. v.</composer>, <title>3 Romanzen. Op. <opus key="opus_0392">12</opus></title>. <title>No. 1, Liebesklage</title> (5 Ngr.) <title>No.2, Seeläuten</title> (7½ Ngr.) <title>No. 3, Ein Stündchen bei dir</title> (7½ Ngr.) <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 17½ Ngr.</wip>
+<listBibl><bibl id="hofm_1854_05_0553_21"><composer key="compo_018679">Krell, R.</composer>, <title>Fröhliche Fahrt. Op. <opus key="opus_0021">10</opus></title>. <pubPlace key="place_0594">Rudolstadt</pubPlace>. <publisher key="publ_2779">Müller</publisher> 3 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0553_22">– <title>Fischers Abendlied. Op. <opus key="opus_0234">11</opus></title>. Ebend. 3 Ngr. n. <lb/>(Gesangbibliothek No. 16. 19.)</bibl>
+</listBibl><bibl id="hofm_1854_05_0553_23"><composer key="compo_019686">Lachner, Ign.</composer>, <title>2 Lieder. Op. <opus key="opus_2764">40</opus> (Bellarosa. Ständchen.)</title> <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 12½ Ngr.</bibl>
+<wip id="hofm_1854_05_0553_24"><composer key="compo_021018">Lindner, Aug.</composer>, <title>5 Lieder Op. <opus key="opus_1932">27</opus></title>. <title>No. 1, Siehst du das Meer</title> (7½ Ngr.) <title>No. 2, Wach auf du schöne Träumerin</title> (7½ Ngr.) <title>No. 3, Wenn auf zu den Wolken ich schaue</title> (7½ Ngr.) <title>No. 4, Wen ich am liebsten habe</title> (5 Ngr.) <title>No. 5, Vöglein mein Bote</title> (5 Ngr.) <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 22½ Ngr.</wip>
+<pb n="554"/>
+<wip id="hofm_1854_05_0554_01"><composer key="compo_022214">Mariani, A.</composer>, <title>Il Trovatore nella Liguria. 8 Pezzi vocali</title>. <title>No. 1, Ave Maria f. Sopr</title>. (1¼ Fr.) <title>No. 2, L’Angellin della Biondina</title> (2 Fr.) <title>No. 3, Una Foglia</title>. <title>No. 4, Vi chiamo invanno notte e giorno</title>. <title>No. 5, Un Fiora, p. Ten</title>. <title>No. 6, Angelo mio, p. Ten</title>. (à 1½ Fr.) <title>No. 7, In morte di una cara creatura, p. Basso</title> (2¾ Fr.) <title>No. 8, L’ultimo Canto del giovine cantore, p. Basso</title> (1¾ Fr.) <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> geh. 10 Fr.</wip>
+<wip id="hofm_1854_05_0554_02"><composer key="compo_022297">Marschner, H.</composer>, <title>4 Gesänge f. Bariton aus Op. <opus key="opus_0873">154</opus></title>. <title>No. 1, Gebet</title> (8 Ngr.) <title>No. 3, Im Gebirg</title> (5 Ngr.) <title>No. 4, Herbstlied</title> (6 Ngr.) <title>No. 6, Glaubst du</title>. (6 Ngr.) <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 22 Ngr.</wip>
+<bibl id="hofm_1854_05_0554_03"><composer key="compo_022404">Maschek, C.</composer>, <title>Kam dir’s vom Herzen? Gedicht v. O. Prechtler. Op. <opus key="opus_1932">27</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3833">Spina</publisher> 10 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_04"><composer key="compo_022864">Melchert, J.</composer>, <title>Weihnachts-Blüthen. 5 Lieder f. Sopr. Op. <opus key="opus_2187">31</opus> (Zur Nacht, Ständchen. Die Frühlingswolken. Das Ange der Nacht. Gegenwart. Wiesenbach.)</title> <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_2870">Niemeyer</publisher> 22½ Ngr.</bibl>
+<wip id="hofm_1854_05_0554_05"><composer key="compo_023118">Methfessel, A.</composer>, <title>2 Lieder. Op. <opus key="opus_0860">153</opus></title>. <title>Gruss aus der Ferne</title>. <title>Du möcht’ ich sein</title>. (à 6 Ngr.) <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 10 Ngr.</wip>
+<listBibl><bibl id="hofm_1854_05_0554_06"><composer key="compo_024205">Müller, Fr</composer>. <title>Erinnerung. Op. <opus key="opus_4017">71</opus></title>. <pubPlace key="place_0594">Rudolstadt</pubPlace>, <publisher key="publ_2779">Müller</publisher> 3 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0554_07">– <title>Wo poch ich an. Op. <opus key="opus_4045">72</opus></title>. Ebend. 3 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0554_08">– <title>Der Fels hat Edelsteine. Op. <opus key="opus_4070">73</opus></title>. Ebend. 3 Ngr. n. <lb/>(Gesangbibliothek No. 17, 20, 21.)</bibl>
+</listBibl><bibl id="hofm_1854_05_0554_09"><composer key="compo_026565">Piwoda, Fr.</composer>, <title>Herbstlied f. Sopr. (od. Ten.) Op. <opus key="opus_4562">9</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_4456">Witzendorf</publisher> 8 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_10">– Idem f. Alt (od. Barit.) Ebend. 8 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_11"><composer key="compo_030161">Scheurlein, H.</composer>, <title>3 Lieder. Op. <opus key="opus_1372">2</opus> (Nur dich allein. Gruss. Abendstille)</title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_4382">Whistling</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_12"><composer key="compo_033484">Storch, A.M.</composer>, <title>Nächtlicher Gruss, v. J.N. Vogl. f. Sopr. (od. Ten.)</title> <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 8 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_13">– Idem f. Alt (od. Barit.) Ebend. 8 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_14"><composer key="compo_033881">Suppé, F. v.</composer>, <title>’s Dirndl als Concert-Sängerin. Gedicht in österreichi-Mundart</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 10 Ngr.</bibl>
+<wip id="hofm_1854_05_0554_15"><composer key="compo_034168">Taubert, W.</composer>, <title>5 Gesänge nebst englischer Uebersetzung. Op. <opus key="opus_4738">99</opus></title>. <title>No. 1, Windesbotschaft</title> (10 Ngr.) <title>No. 2, Ich hör’ die Bächlein rauschen</title> (7½ Ngr.) <title>No. 3, Morgengruss</title> (7½ Ngr.) <title>No. 4, Alles steht in Gottes Hand</title> (5 Ngr.) <title>No. 5, Lieb’ Kindlein gute Nacht</title> (7½ Ngr.) <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 1 Rt.</wip>
+<bibl id="hofm_1854_05_0554_16"><composer key="compo_034975">Tuczek, Ph.</composer>, <title>Ich hab im Traum geweint. Gedicht v. H. Heine</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1269">Glöggl</publisher> 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_17"><title>Volkslied (schwäbisches), Mädel ruck, ruck</title>. <pubPlace key="place_0044">Berl</pubPlace>., <publisher key="publ_0589">Challier u. C</publisher>. 5 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_18"><composer key="compo_037306">Witt, Th. de</composer>, <title>4 geistliche Lieder. Op. <opus key="opus_4300">8</opus> (Trost im Leiden. Frieden. Abendlied. Trost im Unglück)</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> 12½ Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_19"><composer key="compo_037641">Wunderlich, J.</composer>, <title>4 Lieder f. Bass (od. Alt) Op. <opus key="opus_1068">17</opus>. 6te Samml. (Vergissmeinnicht. Jägerslust. Liebesbotschaft. Der Zecher.)</title> <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_3605">Schubert u. Co</publisher>. 15 Ngr.</bibl>
+<bibl id="hofm_1854_05_0554_20"><composer key="compo_037618">Wuerst, R.</composer>, <title>Aria di Concerto (Misera dove sono) p. Mezzo-Sopr. (o Contr’Alto) Op. <opus key="opus_1999">28</opus></title>. <pubPlace key="place_0436">Magdeburg</pubPlace>, <publisher key="publ_1560">Heinrichshofen</publisher> 15 Ngr.</bibl>
+</div><div id="hofm_1854_05_0554_div19"><head><hofClass key="hofCl_0077">Lehrbücher für den Gesang.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0554_21"><composer key="compo_005894">Commer, Fr.</composer>, <title>Singübungen f. zwei Stimmen (Sopr. u. Alt)</title>. 8. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_1394">Guttentag</publisher> 5 Ngr.</bibl>
+<wip id="hofm_1854_05_0554_22"><composer key="compo_024482">Nava, G.</composer>, <title>Repertorio di Solfeggi p. Sopr. (o Mezzo-Sopr.) con Pfte. Op. <opus key="opus_1482">21</opus></title>. <title>Heft 1</title> (1 Rt.) <title>Heft 2</title> (25 Ngr.) <title>Heft 3</title> (1 Rt. 12½ Ngr.) <title>Heft 4</title> (1 Rt. 7½ Ngr.) <title>Heft 5</title> (1 Rt. 12½ Ngr.) <pubPlace key="place_0044">Berl</pubPlace>., <publisher key="publ_0166">Bahn</publisher>.</wip>
+<bibl id="hofm_1854_05_0554_23">– <title>Elementi di Vocalizzazione ad uso delle Fanciulle con Pfte</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> geh. 20 Fr.</bibl>
+<pb n="555"/>
+<bibl id="hofm_1854_05_0555_01"><composer key="compo_025691">Panofka, H.</composer>, <title>L’Art du Chanteur. Theorie et Pratique p. Soprano, Mezzo-Soprano ou Ten. Op. <opus key="opus_4354">81</opus></title>. <pubPlace key="place_0537">Paris</pubPlace>, <publisher key="publ_0412">Brandus u. Co</publisher>. (<pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher>) geh. 40 Fr.</bibl>
+<wip id="hofm_1854_05_0555_02">– Idem p. Contralto, Bariton ou Basse. Ebend. geh. 40 Fr. <lb/>Hieraus einzeln abgedruckt: <lb/><title>Vademecum du Chanteur, cont. des Exercices nécessaires, p. former, développer et égaliser la voix, écrits dans tous les tons et pour toutes les voix</title>. Ebend. geh. 25 Fr. <lb/><title>24 Vocalises p. Soprano, Mezzo-Soprano ou Tenor</title>. Ebend. 25 Fr. <lb/><title>24 Vocalises p. Contr’Alto, Baryton ou Basse</title>. Ebend. 25 Fr.</wip>
+<bibl id="hofm_1854_05_0555_03"><composer key="compo_029815">Savinelli, A.</composer>, <title>6 Melodie ad uso vocalizzo p. Soprano (o Tenore) con Pfte</title>. <pubPlace key="place_0437">Mailand</pubPlace>, <publisher key="publ_2495">Lucca</publisher> 6 Fr.</bibl>
+<bibl id="hofm_1854_05_0555_04"><composer key="compo_030650">Schmitt, Friedr.</composer>, <title>Grosse Gesangschule f. Deutschland</title>. Fol. <pubPlace key="place_0475">Mün</pubPlace> <publisher key="publ_2434">Lindauer in Comm</publisher>. 9 Rt. 10 Ngr. *n.</bibl>
+<bibl id="hofm_1854_05_0555_05"><composer key="compo_034574">Tietz, Ph.</composer>, <title>Gesang-Unterricht f. Schuten. Ein methodischer Leitfaden. 3ter Cursus (25 2- u. 3stimm. Lieder)</title>. 8. <pubPlace key="place_0301">Hildesheim</pubPlace>, <publisher key="publ_1230">Gerstenberg</publisher> 5 Ngr. *n.</bibl>
+</div><div id="hofm_1854_05_0555_div20"><head><hofClass key="hofCl_0287">Theoretische Werke.</hofClass></head>
+
+
+
+
+
+
+
+
+
+<bibl id="hofm_1854_05_0555_06"><author>Küster, H.</author>, <title>Ueber Händels „Israel in Aegypten.“</title> gr. 8. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0166">Bahn</publisher> geh. 3 Ngr. n.</bibl>
+<bibl id="hofm_1854_05_0555_07"><author>Lenz, W.</author>, <title>Beethoven et ses trois Styles. Analyses des Sonates de Pfte, suivies de l’Essai, d’un Catalog critique, chronologique et anecdotique de l’Oeuvres de Beethoven. 2 Vols</title>. 8. <pubPlace key="place_0089">Brüssel</pubPlace>, <publisher key="publ_2004">Kiessling, Schnee u. Co</publisher>. 2 Rt. n.</bibl>
+<bibl id="hofm_1854_05_0555_08"><author>Sechter, S.</author>, <title>Die Grundsätze der musikalischen Compositionen. 2te Abth</title>. gr. 8. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_0437">Br. u. Härtel</publisher> geh. 2 Rt. 10 Ngr. n.</bibl>
+
+
+
+
+
+</div></body></text></TEI.2>

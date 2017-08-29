@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2
+  SYSTEM "../../dtd/tei/cch_tei.dtd">
+<TEI.2 id="hofm_1830_09">
+
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>September, October 1830</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="ger">German</language>
+                <language id="fre">French</language>
+                <language id="ita">Italian</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc><change><date>2007-09-20</date><respStmt><name>EP</name></respStmt><item>missing @id added</item></change><change><date>2007-08-16</date><respStmt><name>ER</name></respStmt><item>p. 73, Schott = publisher</item></change><change><date>2007-06-14</date><respStmt><name>ER</name></respStmt><item>full stops in Hofclass moved</item></change><change><date>2007-04-27</date><respStmt><name>RV</name></respStmt><item>Changed "biblGroup" elements in "listBibl"</item></change><change><date>2007-03-02</date><respStmt><name>EP</name></respStmt><item>Checked curly brackets</item></change><change><date>2007-02-26</date><respStmt><name>EP</name></respStmt><item>Encoded curly brackets</item></change><change><date>2007-02-27</date><respStmt><name>EP</name></respStmt><item>Fixed empty Hoffclasses</item></change><change><date>2006-12-19</date><respStmt><name>EP</name></respStmt><item>sic and unclear moved outside elements pubplaces, publisher, composer, hofclass, key, opus</item></change><change>
+                <date>2006-11-23</date>
+                <respStmt>
+                    <name>EP</name>
+                </respStmt>
+                <item>hoffClass moved at the beginning os the div within and head type="inline"
+                    element</item>
+            </change><change>
+                <date>2006-03-14</date>
+                <respStmt>
+                    <name>Liz</name>
+                </respStmt>
+                <item>XRefs done</item>
+            </change><change>
+                <date>2005-05-10</date>
+                <respStmt>
+                    <name>Liz</name>
+                </respStmt>
+                <item>coding</item>
+            </change><change>
+                <date>2005-05-09</date>
+                <respStmt>
+                    <name>Liz</name>
+                </respStmt>
+                <item>pasting in</item>
+            </change></revisionDesc>
+    </teiHeader>
+
+
+    <text>
+        <body>
+            <pb n="66"/>
+            <head>September, October 1830.</head>
+            <div id="hofm_1830_09_0066_div01">
+                <head rend="inline">
+                    <hofClass key="hofCl_0164">Aa</hofClass>.</head>
+
+
+
+
+
+
+
+
+                <bibl id="hofm_1830_09_0066_01"><composer key="compo_028763">Romberg (Bern.)</composer>
+                    <title>3ème Sinfonie à grand Orchestre. Oe. <opus key="opus_3316">53</opus>, in <key>C</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 6 Fl. 45
+                    Xr.</bibl>
+
+            </div>
+            <div>
+                <head rend="inline">
+                    <hofClass key="hofCl_0164">Ab</hofClass>.</head>
+                <bibl id="hofm_1830_09_0066_02">. <composer key="compo_005278">Carafa</composer>, <title>Ouverture de
+                        l’Opéra : la Violette, à grand Orchestre</title>. <pubPlace key="place_0069">Bonn</pubPlace>,
+                        <publisher key="publ_3791">Simrock</publisher> 8 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_03">– <composer key="compo_028394">Ries (Ferd.)</composer>
+                    <title>Ouverture zu Don Carlos von Schiller, f. Orchestre. Op. <opus key="opus_4654">94</opus></title>. <pubPlace key="place_0069">Bonn</pubPlace>, <publisher key="publ_3791">Simrock</publisher> 9 Fr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0066_div03">
+                <head rend="inline">
+                    <hofClass key="hofCl_0164">Ac</hofClass>.</head>
+                <bibl id="hofm_1830_09_0066_04"><composer key="compo_016833">Kalliwoda</composer>, <title>Concertante
+                        p. 2 Violons avec Orchestre. Oe. <opus key="opus_1390">20</opus>, in <key>A</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 3 Thlr. 8
+                    Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0066_div04">
+                <head rend="inline">
+                    <hofClass key="hofCl_0067">B</hofClass>.</head>
+                <bibl id="hofm_1830_09_0066_05"><composer key="compo_002076">Beethoven</composer>, <title>Rondino f.
+                        8stimmige Harmonie, <format>Partitur</format> (in <key>B</key>.) <opus key="opus_4776">Nachgelassenes Werk</opus></title>. (Musikal. Archiv No. 4.) <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_0735">Diabelli et C</publisher>. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_05_b">– <composer key="compo_029007">Rothe</composer>, <title>Pièces
+                        d’Harmonie ou Musique militaire</title>. (Journal, Cahier 5.)
+                        <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 1 Thlr. 16
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_07">– <composer key="compo_032662">Sowinski</composer>, <title>Marche
+                        héroïque des Parisiens arr. p. Musique militaire par Berr. Oe. <opus key="opus_1731">24</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 10 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0066_div05">
+                <head rend="inline">
+                    <hofClass key="hofCl_0245">Ca</hofClass>.</head>
+                <bibl id="hofm_1830_09_0066_08"><composer key="compo_016833">Kalliwoda</composer>, <title>Concertante
+                        p. 2 Violons avec Orchestre. Oe. <opus key="opus_1390">20</opus>, in <key>A</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 3 Thlr. 8
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_09">– <composer key="compo_021096">Lipinsky</composer>, <title>Variations
+                        sur un Thême de la Cererentola de Rossini p. Violon avec Orchestre. Oe.
+                            <opus key="opus_0234">11</opus>, in <key>D</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 2 Thlr. 12
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_10">– <composer key="compo_022558">Maurer (L.)</composer>
+                    <title>Air de l’Opéra : la Neige d’Auber, varié p. Violon avec Orch. Oe. <opus key="opus_3529">59</opus>, in <key>A</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_11">– <composer key="compo_036036">Wallerstein (A.)</composer>
+                    <title>Variations brillantes p. Violon avec Orchestre. Oe. <opus key="opus_1372">2</opus>, in <key>G</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 1
+                    Thlr.</bibl>
+
+            </div>
+            <div>
+                <head rend="inline">
+                    <hofClass key="hofCl_0245">Cc</hofClass>.</head>
+                <bibl id="hofm_1830_09_0066_12"><composer key="compo_002076">Beethoven</composer>, <title>5ème
+                        Sinfonie arr. en Quintetto p. 2 Violons, 2 Altos et Vclle par Ebers. Oe.
+                            <opus key="opus_3868">67</opus>. in <key>Cm</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_0437">Br. et Härtel</publisher> 2
+                    Thlr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_13">– <composer key="compo_025362">Onslow</composer>, <title>15ème
+                        Quintetto p. 2 Violons, Alto et 2 Vclles, ou p. 2 Violons, 2 Altos et Vclle.
+                        Oe. <opus key="opus_2630">38</opus>. in <key>C</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 2 Thlr. 8
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_14">– <composer key="compo_034612">Tischler (F.S.)</composer>
+                    <title>Variations brillantes sur un Thême de la Donna del Lago p. Violon avec
+                        Quatuor. Oe. <opus key="opus_2737">4</opus>, in <key>D</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3011">Pennauer</publisher> 1 Fl.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0066_div07">
+                <head rend="inline">
+                    <hofClass key="hofCl_0245">Cd</hofClass>.</head>
+                <bibl id="hofm_1830_09_0066_15"><composer key="compo_001075">Auber</composer>, <title>Ouverture du
+                        Maçon arr. p. 2 Violons, Alto et Vclle (No. 3.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0066_16">– <composer key="compo_002076">Beethoven</composer>, <title>3 grands
+                        Quatuors p. 2 Violons, Alto et Vclle. Oe. <opus key="opus_3532">59, No. 1, 2,
+                        3</opus>, in <key>F</key>, <key>E m</key>. <key>C</key>. <format>Partition</format>
+                    </title>. <pubPlace key="place_0519">Offenb</pubPlace>. <publisher key="publ_0065">André</publisher> à 1 Fl. 30
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_17">– <composer key="compo_007283">Dotzauer</composer>, <title>3 Quatuors
+                        p. 2 Violons, Alto et Vclle. Oe. <opus key="opus_0202">108, No. 1, 2, 3</opus>in
+                            <key>Es</key>, <key>C</key>. <key>Fis m</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> à 1 Thlr.
+                    4 Gr.</bibl>
+
+                <wip id="hofm_1830_09_0066_18">– <composer key="compo_016270">Jantsy (von Lotz)</composer>
+                    <title>echt ungarische Nationaltänze f. Violine, mit 2ter Violine, Viola u.
+                        Vclle</title>. <title>Liv. 1, 2</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_1506">Haslinger</publisher> à 1 Fl.</wip>
+
+                <bibl id="hofm_1830_09_0066_19">– <composer key="compo_022632">Mayer (J.) genannt Zwicker</composer>,
+                        <title>echte Oberländler oder sogenannte langsame u. geschwinde Angeiger für
+                        2 Violinen, mit Violine u. Bass. Liv. 1</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_1506">Haslinger</publisher> 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_20">– – <title>Lerchenfelder Bierhausländler f. do. do.
+                        Liv 2</title>. Ebend. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_21">– <composer key="compo_028968">Rossini</composer>, <title>Guillaume
+                        Tell, Opéra arr. p. 2 Violons, Alto et Vclle par Küffner</title>.
+                        <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 13
+                    F<unclear>l</unclear>. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0066_22">– <composer key="compo_031798">Sechter</composer>, <title>Variazionen
+                        (God save the King) f. 2 Violinen, Viola u. Vclle. <format>Partitur</format>. Op. <opus key="opus_2804">41</opus>, in <key>B</key></title>. (Musikalisches Archiv No. 1.) <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_0735">Diabelli et C</publisher>. 30 Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0066_div08">
+                <head rend="inline">
+                    <hofClass key="hofCl_0245">Ce</hofClass>.</head>
+                <bibl id="hofm_1830_09_0066_23"><composer key="compo_017509">Kirnberger</composer>,
+                        <title>3 Sonaten f. 2 Violinen u. Bass. <format>Partitur</format>
+                    </title>. (Musikalisches Archiv No. 2.) Ebend. 45 Xr.</bibl>
+</div>
+                <pb n="67"/>
+
+                <div id="hofm_1830_09_0066_div08_bis">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0245">Ce</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0067_01"><composer key="compo_033546">Strauss</composer>, <title>des Verfassers beste Laune, Charmantwalzer
+                        f. 2 Violinen u. Bass. Op. <opus key="opus_2187">31</opus></title>.
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 30 Xr.</bibl>
+                
+
+                <bibl id="hofm_1830_09_0067_02">– – <title>Schwarz’ sche Balltänze. Cotillons nach
+                        Melodieen aus der Stummen von Portici, f. 2 Violinen u. Bass. Op. <opus key="opus_2268">32</opus></title>. Ebend. 45 Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0067_div09">
+                <head rend="inline">
+                    <hofClass key="hofCl_0245">Cf</hofClass>.</head>
+                <bibl id="hofm_1830_09_0067_03"><composer key="compo_001075">Auber</composer>, <title>die Stumme von
+                        Portici (la Muette de Portici) Oper f. 2 Violinen arr. von Diabelli</title>.
+                        <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 2 Fl. 15
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_04">– – <title>Ouverture daraus do do do</title>. Ebend.
+                    45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_05">– – <title>dieselbe Oper f. Violine u. Pianoforte
+                        concertirend, arr. von Diabelli</title>. Ebend. 4 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0067_06">– <composer key="compo_004899">Beriot</composer>, <title>7ème Air varié
+                        p. Violon avec Pfte. Oe. <opus key="opus_0806">15</opus>, in <key>E</key></title>. <pubPlace key="place_0438">Mainz</pubPlace>. <publisher key="publ_3563">Schott</publisher> 1 Fl. 24 Xr.</bibl>
+
+                <wip id="hofm_1830_09_0067_07">– <composer key="compo_016270">Jantsy (von Lotz)</composer>
+                    <title>echt ungarische Nationaltänze f. Violine u. Pfte</title>. <title>Liv. 1.
+                        2</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> à 45
+                    Xr.</wip>
+
+                <bibl id="hofm_1830_09_0067_08">– <composer key="compo_021096">Lipinsky</composer>, <title>Variations
+                        sur un Thême de la Cenerentola de Rossini, p. Violon avec Pfte. Oe. <opus key="opus_0234">11</opus>, in <key>D</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 1 Thlr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_09">– <composer key="compo_022558">Maurer (L.)</composer>
+                    <title>Air de l’Opéra : la Neige d’Auber, varié p. Violon avec Pfte. Oe. <opus key="opus_3529">59</opus>, in <key>A</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_10">– <composer key="compo_023749">Morelly</composer>,
+                        <title>Schnepfenwalzer f. Violine mit Pfte. Op. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 30
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_11">– <composer key="compo_023884">Mozart</composer>, <title>3 Duos p.
+                        Violon et Alto. Oe. <opus key="opus_3140">49</opus></title>. <pubPlace key="place_0069">Bonn</pubPlace>, <publisher key="publ_3791">Simrock</publisher> 4 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_12">– <composer key="compo_033546">Strauss</composer>, <title>des
+                        Verfassers beste Laune, Charmantwalzer f. Violine u, Pfte. Op. <opus key="opus_2187">31</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_13">– – <title>Schwarz’ Sche Balltänze. Cotillons nach
+                        Melodieen aus der Stummen von Portici f. Violine u. Pfte. Op. <opus key="opus_2268">32</opus></title>. Ebend. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_14">– <composer key="compo_034612">Tischler (F.S.)</composer>
+                    <title>Variations brillantes sur un Thême de la Donna del Lago p. Violon avec
+                        Pfte. Oe. <opus key="opus_2737">4</opus>, in <key>D</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3011">Pennauer</publisher> 1 Fl.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0067_div10">
+                <head rend="inline">
+                    <hofClass key="hofCl_0245">Cg</hofClass>.</head>
+                <bibl id="hofm_1830_09_0067_15"><title>Chefs-d’Oeuvre de l’Ecole italienne.
+                        Sonates p. Violon avec Basse. No. 1, de Barbella. No. 2, de
+                    Manfredi</title>. <pubPlace key="place_0392">Leipzig</pubPlace>,
+                    <publisher key="publ_1746">Hofmeister</publisher> à 10 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_16">– <composer key="compo_022631">Mayer (J.)</composer>
+                    <title>genannt Zwicker, echte Oberländler oder sogenannte langsame u. geschwinde
+                        Angeiger f. Violine. Liv. 1</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_1506">Haslinger</publisher> 15 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_17">– – <title>Lerchenfelder Bierhausländler f. do. Liv.
+                        2</title>. Ebend. 15 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_18">– <composer key="compo_028397">Ries (H.)</composer>
+                    <title>12 Solos p. Violon d’une Difficulté modérée. Oe. <opus key="opus_4562">9</opus>,
+                        Liv. 1</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                    <publisher key="publ_4067">Trautwein</publisher> 16 Gr.</bibl>
+
+                <wip id="hofm_1830_09_0067_19">– <title>Unterhaltungen (Opernarien) f.
+                        Violine</title>. <title>Liv. 1, 2</title>, <pubPlace key="place_0044">Berlin</pubPlace>;
+                        <publisher key="publ_3949">Struve</publisher> à 2 Gr.</wip>
+
+            </div>
+            <div id="hofm_1830_09_0067_div11">
+                <head rend="inline">
+                    <hofClass key="hofCl_0184">Ea</hofClass>.</head>
+                <bibl id="hofm_1830_09_0067_20"><composer key="compo_028763">Romberg (Bern.)</composer>
+                    <title>Concertino (Pièce facile) p. Vclle avec Orchestre. Oe. <opus key="opus_3244">51</opus>, in <key>D</key></title>. (Odeon No, 28.) <pubPlace key="place_0731">Wien</pubPlace>,
+                    <publisher key="publ_1506">Haslinger</publisher> 2 Fl. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0067_21">– – <title>4ème Collection d’Airs russes variés p.
+                        Vclle avec Orchestre. Oe. <opus key="opus_3282">52</opus>, in <key>A</key></title>. (Odeon No. 29.) Ebend. 2 Fl. 30 Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0067_div12">
+                <head rend="inline">
+                    <hofClass key="hofCl_0184">Eb</hofClass>.</head>
+                <bibl id="hofm_1830_09_0067_22"> – <title>Cantabile et Thême varié suivis d’un
+                        Allegretto (Pièce facile) p. Vclle avec Quatuor. Oe. <opus key="opus_3204">50</opus>, in <key>C</key></title>. Ebend. 1 Fl.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0067_div13">
+                <head rend="inline">
+                    <hofClass key="hofCl_0184">Ec</hofClass>.</head>
+                <bibl id="hofm_1830_09_0067_23"> – <title>les mêmes p. Vclle avec Pfte. Oe. <opus key="opus_3204">50</opus>, in <key>C</key></title>. Ebend. 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0067_24">– – <title>Concertino (Pièce facile) p. Vclle avec
+                        Pfte. Oe. <opus key="opus_3244">51</opus>, in <key>D</key></title>. Ebend. 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0067_25">– – <title>4ème Collection d’Airs russes variés p.
+                        Vclle avec Pfte. Oe. <opus key="opus_3282">52</opus>, in <key>A</key></title>, Ebend. 1 Fl.</bibl>
+
+            </div>
+            <pb n="68"/><div id="hofm_1830_09_0067_div14">
+                <head rend="inline">
+                    <hofClass key="hofCl_0200">Fa</hofClass>.</head>
+                
+
+                <bibl id="hofm_1830_09_0068_01"><composer key="compo_019135">Kummer (Gasp.)</composer>
+                    <title>Introduction et Allegro brillant p. Flûte avec Orchestre. Oe. <opus key="opus_3658">61</opus></title>. <pubPlace key="place_0069">Bonn</pubPlace>, <publisher key="publ_3791">Simrock</publisher> 5 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_02">– <composer key="compo_021040">Lindpaintner</composer>, <title>3
+                        Divertissemens p. Flûte avec Orchestre. Oe. <opus key="opus_3874">67, No. 3</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 2 Thlr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div15">
+                <head rend="inline">
+                    <hofClass key="hofCl_0200">Fc</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_03"><composer key="compo_019065">Kuhlau</composer>, <title>grand Quatuor
+                        p. 4 Flûtes. Oe. <opus key="opus_0115">103</opus>, in <key>E</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 1 Thlr 20
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_04">– <composer key="compo_028968">Rossini</composer>, <title>Guillaume
+                        Tell, Opéra arr. p. Flûte, Violon, Alto et Vclle par Küffner</title>.
+                        <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 13 Fl. 30 Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div16">
+                <head rend="inline">
+                    <hofClass key="hofCl_0200">Fe</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_05"><composer key="compo_005246">Canthal (A.M.)</composer>
+                    <title>Fantaisie sur des Motifs de la Muette de Portici p. Flûte avec
+                    Pfte</title>. <pubPlace key="place_0276">Hamburg</pubPlace>
+                    <publisher key="publ_0540">Böhme</publisher> 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_06">– <composer key="compo_010419">Fürstenau (A.B.)</composer>
+                    <title>Nocturne concertant p. Flûte et Pfte. No. 1, Oe. <opus key="opus_3895">68</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0106">Artaria et C</publisher>. 1 Fl.
+                    12 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_07">– <composer key="compo_019065">Kuhlau</composer>, <title>Variations sur
+                        l’Air favori écossais : Durandarte and Belerma, p. Flûte avec Pfte ad
+                        libitum. Oe. <opus key="opus_0137">104</opus>, in <key>F</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 10 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_08">– – <title>Variations sur l’Air favori irlandais :
+                        Tis the last Rose of Summer, p. Flûte avec Pfte ad libitum. Oe. <opus key="opus_0152">105</opus>, in <key>G</key></title>. Ebend. 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_09">– <composer key="compo_021040">Lindpaintner</composer>, <title>3
+                        Divertissemens p. Flûte avec Pfte. Oe. <opus key="opus_3874">67, No. 3</opus></title>. Ebend. 20 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div17">
+                <head rend="inline">
+                    <hofClass key="hofCl_0200">Ff</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_10"><composer key="compo_019065">Kuhlau</composer>, Siehe vorher: Fe.
+                        <xref type="external" from="hofm_1830_09_0068_07" to="DITTO" targOrder="U">Kuhlau, Oe. <opus key="opus_0137">104</opus></xref>, <xref type="external" from="hofm_1830_09_0068_08" to="DITTO" targOrder="U">
+                        <opus key="opus_0152">105</opus></xref>.</bibl>
+
+                <wip id="hofm_1830_09_0068_11">– <composer key="compo_028968">Rossini</composer>,
+                        <title>Semiramis f. eine Flöte arr. von Diabelli</title>
+                    <title>Liv. 1, 2</title>. (Gesellschafter No. 49, 50.)
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. à 1 Fl.</wip>
+
+            </div>
+            <div id="hofm_1830_09_0068_div18">
+                <head rend="inline">
+                    <hofClass key="hofCl_0196">Ga</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_12"><composer key="compo_027979">Reissiger</composer>, <title>Concertino
+                        p. Clarinette avec Orchestre. Oe. <opus key="opus_3738">63</opus>, in <key>Es</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 3
+                    Thlr. 12 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div19">
+                <head rend="inline">
+                    <hofClass key="hofCl_0196">Ge</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_13"><composer key="compo_002284">Bender (L.)</composer>
+                    <title>3 Duos concertans p. Clarinette et Basson, Oe. <opus key="opus_0684">14</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 48 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_14">– <composer key="compo_004993">Böhner (J.L.)</composer>
+                    <title>Duett f. Clarinette u. Pfte, Op. <opus key="opus_3868">67</opus>, in <key>Es</key></title>. <pubPlace key="place_0181">Erfurt</pubPlace>, <publisher key="publ_2681">Meyer</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_15">– <composer key="compo_027979">Reissiger</composer>, <title>Concertino
+                        p. Clarinette avec Pfte. Oe. <opus key="opus_3738">63</opus>, in <key>Es</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 20
+                    Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div20">
+                <head rend="inline">
+                    <hofClass key="hofCl_0219">Ja</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_16"><composer key="compo_035905">Wagner (P.J.P.)</composer>
+                    <title>Andante et Variations sur un Thême favori (Ocara Memoria) p. Hautbois
+                        avec Orchestre</title>, <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_0437">Br. et
+                        Härtel</publisher> 1 Thlr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div21">
+                <head rend="inline">
+                    <hofClass key="hofCl_0188">Ka</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_17"><composer key="compo_016112">Jacobi (C.)</composer>
+                    <title>Variations p. Basson avec Orchestre. Oe. <opus key="opus_0021">10</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_0437">Br. et Härtel</publisher> 1
+                    Thlr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div22">
+                <head rend="inline">
+                    <hofClass key="hofCl_0075">Nc</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_18"><composer key="compo_018959">Krähmer</composer>, <title>Souvenir à la
+                        Suisse (Schweitzer Kuhreihen) Fantaisie p. le Csakan. Oe. <opus key="opus_1932">27</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 45
+                    Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div23">
+                <head rend="inline">
+                    <hofClass key="hofCl_0205">Pc</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_19"><composer key="compo_001075">Auber</composer>, <title>Ouverture de la
+                        Muette de Portici arr. p. Flûte, Violon et Guitarre</title>.
+                    <pubPlace key="place_0069">Bonn</pubPlace>, <publisher key="publ_3791">Simrock</publisher> 3 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_20">– <composer key="compo_019508">Küffner</composer>, <title>Sérénade p.
+                        Violon, Alto et Guitarre. Oe. <opus key="opus_1545">214</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 2 Fl. 24 Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div24">
+                <head rend="inline">
+                    <hofClass key="hofCl_0205">Pd</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_21"><title>Favoritwalzer, Lauterbacher, f. 2 Guit,
+                        arr. von J.D.H</title>. <pubPlace key="place_0519">Offenbach</pubPlace>,
+                    <publisher key="publ_0065">André</publisher> 12 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_22">– <composer key="compo_019508">Küffner</composer>, <title>Sérénade p.
+                        Violon ou Flûte et Guitarre, Oe. <opus key="opus_1555">215</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 12 Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0068_div25">
+                <head rend="inline">
+                    <hofClass key="hofCl_0205">Pe</hofClass>.</head>
+                <bibl id="hofm_1830_09_0068_23"><composer key="compo_001075">Auber</composer>,
+                        <title>Recueil de Pièces favorites de la Muette de Portici arr. p. Guitarre
+                        par J. Lom, (Oe. <opus key="opus_1165">18</opus>.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3011">Pennauer</publisher> 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0068_24">– <composer key="compo_003486">Bodstein</composer>, <title>2 Var. (An
+                        Alexis) suivies d’une Polonaise brillante p. Guitarre. Oe. <opus key="opus_0392">12</opus></title>. <pubPlace key="place_0078">Braunschweig</pubPlace>, <publisher key="publ_2686">Meyer jun</publisher>. 8
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0068_25">– <composer key="compo_004279">Briest</composer>, <title>6 Walzer f.
+                        Guitarre. 3te Sammlung</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                        <publisher key="publ_0224">Bechtold u. Hartje</publisher> 4 Gr.</bibl>
+</div>
+                <pb n="69"/>
+
+                <div id="hofm_1830_09_0068_div25_bis">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0205">Pe</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0069_01"><composer key="compo_011064">Gernlein</composer>, <title>5 Alpensänger – Favoritwalzer f.
+                    Guitarre</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3949">Struve</publisher> 4
+                    Gr.</bibl>
+                
+
+                <bibl id="hofm_1830_09_0069_02">– <composer key="compo_023206">Meyer (C.)</composer>
+                    <title>10 Tänze f. Guitarre</title>. <pubPlace key="place_0147">Dresden</pubPlace>,
+                        <publisher key="publ_1118">Friese</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_03">– <composer key="compo_032622">Sonntag (H.)</composer>
+                    <title>Mädchenlieblinge oder 10 Galops f. Guitarre</title>.
+                    <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_1118">Friese</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_04">– – <title>Guitarrenübungen</title>. Ebend. 6 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0069_div26">
+                <head rend="inline">
+                    <hofClass key="hofCl_0167">Qa</hofClass>.</head>
+                <bibl id="hofm_1830_09_0069_05"><composer key="compo_003160">Blahetka (Leopoldine)</composer>
+                    <title>Concertstück f. Pianoforte mit Orchestre. Op. <opus key="opus_1802">25</opus>,
+                        in <key>E</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J. Czerny</publisher> 4 Fl. 30
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_06">– <composer key="compo_005613">Chopin</composer>, <title>„La ci darem
+                        la Mano.” varié p. Pfte avec Orchestre, Oe. <opus key="opus_1372">2</opus>, in <key>B</key></title>. (Odeon No. 27.) <pubPlace key="place_0731">Wien</pubPlace>,
+                    <publisher key="publ_1506">Haslinger</publisher> 4 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0069_07">– <composer key="compo_006306">Czerny (Carl)</composer>
+                    <title>concertirendes Quatuor über beliebte Melodieen f. 4 Pfte mit Orchestre
+                        oder Quartett ad libitum. Op. <opus key="opus_1678">230</opus>, in <key>C</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 8 Fl.
+                    45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_08">– <title>dasselbe als Concertstück f. Pfte zu 4
+                        Händen arr. mit Orchestre oder Quartett ad libitum. Op. <opus key="opus_1678">230</opus>, in <key>C</key></title>. Ebend. 5 Fl. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_09">– – <title>dasselbe als Concertstück f. ein Pfte
+                        arr. mit Orchestre oder Quartett ad libitum. Op. <opus key="opus_1678">230</opus>,
+                        in <key>C</key></title>. Ebend. 4 Fl. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_10">– – <title>die Orchestre- oder Quartettbegleitung zu
+                        den 3 Ausgaben von Op. <opus key="opus_1678">230</opus>einzeln</title>. Ebend. 2
+                    Fl. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_11">– <composer key="compo_013539">Hauck</composer>, <title>grosse
+                        Variazionen u. Rondo über die Arie: Komm holde Schöne, aus der weissen Dame,
+                        f. Pfte mit Orchestre. Op. <opus key="opus_4562">9</opus>, in <key>Es</key></title>. (Odeon No. 28.) <pubPlace key="place_0731">Wien</pubPlace>,
+                    <publisher key="publ_1506">Haslinger</publisher> 4 Fl. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_12">– <composer key="compo_014550">Herz (H.)</composer>
+                    <title>Variations brillantes sur le Choeur favori du Crociato p. Pfte arr. avec
+                        Orchestre. Oe. <opus key="opus_1661">23</opus>, in <key>Es</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 3 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0069_13">– <composer key="compo_022612">Mayer (Charles)</composer>
+                    <title>grand Rondeau brillant p. Pfte avec Orchestre. Oe. <opus key="opus_1999">28</opus>, in <key>D</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 3 Thlr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0069_div27">
+                <head rend="inline">
+                    <hofClass key="hofCl_0167">Qb</hofClass>.</head>
+                <bibl id="hofm_1830_09_0069_14"><composer key="compo_003160">Blahetka (Leopoldine)</composer>
+                    <title>Concertstück f. Pfte mit Quartett. Op. <opus key="opus_1802">25</opus>, in <key>E</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J. Czerny</publisher> 3 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0069_15">– – <title>Variazionen über den Fischerchor aus der
+                        Stummen von Portici (Wohlauf etc.) f. Pfte mit Quartett. Op. <opus key="opus_1881">26</opus>, in <key>F</key></title>. (Der junge Virtuose No. 6.) <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_1506">Haslinger</publisher> 2 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0069_16">– <composer key="compo_014550">Herz (H.)</composer>
+                    <title>Variations brillantes sur le Choeur favori du Crociato p. Pfte arr. avec
+                        Quatuor. Oe. <opus key="opus_1661">23</opus>, in <key>Es</key></title>, <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 2 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0069_17">– <composer key="compo_015445">Horzalka</composer>, <title>Rondeau
+                        hongrois p. Pfte avec Quatuor. Oe <opus key="opus_1999">28</opus>, in <key>Es</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 2 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0069_18">– <composer key="compo_022612">Mayer (Charles)</composer>
+                    <title>grand Rondeau brillant p. Pfte avec Quatuor. Oe. <opus key="opus_1999">28</opus>, in <key>D</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 2 Thlr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0069_div28">
+                <head rend="inline">
+                    <hofClass key="hofCl_0167">Qc</hofClass>.</head>
+                <bibl id="hofm_1830_09_0069_19"><composer key="compo_002076">Beethoven</composer>, <title>Ouverture
+                        d’Egmont arr. p. Pfte avec Violon, Flûte et Vclle par Moscheles. Oe. <opus key="opus_4436">84</opus></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0640">Cranz</publisher> 20 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0069_div29">
+                <head rend="inline">
+                    <hofClass key="hofCl_0167">Qd</hofClass>.</head>
+                <bibl id="hofm_1830_09_0069_20"><composer key="compo_014848">Himmel</composer>, <title>Sonate f.
+                        Pfte, Violine u. Vclle. Op. <opus key="opus_0928">16, No. 1</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3949">Struve</publisher> 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_21">– <composer key="compo_015944">Hünten (Fr.)</composer>
+                    <title>Trio concertant p. Pfte, Violon et Vclle. Oe. <opus key="opus_0684">14</opus>,
+                        in <key>Es</key></title>, <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 20 Gr.
+                        <pubPlace key="place_0731">Wien</pubPlace>. <publisher key="publ_0671">J. Czerny</publisher> 1 Fl. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_22">– <composer key="compo_021681">Löwe (C.)</composer>
+                    <title>grand Trio p. Pfte, Violon et Vclle. Oe. <opus key="opus_0392">12</opus>, in
+                            <key>Gm</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher> 1
+                    Thlr. 18 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0069_23">– <composer key="compo_031122">Schubert (Fr.)</composer>
+                    <composer key="compo_019130">F.A. Kummer</composer> et <composer key="compo_020073">Ch. Lassek</composer>,
+                        <title>Divertissement p. Pfte. Violon et Vclle</title>.
+                    <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_1118">Friese</publisher> 1 Thlr. 2 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0069_div30">
+                <head rend="inline">
+                    <hofClass key="hofCl_0167">Qe</hofClass>.</head>
+                <bibl id="hofm_1830_09_0069_24"><composer key="compo_001075">Auber</composer>. Siehe vorher: Cf.
+                        <xref type="external" from="hofm_1830_09_0067_05" to="DITTO" targOrder="U">Auber, f. Violine u. Pfte</xref>.</bibl>
+
+                <pb n="70"/>
+
+                <wip id="hofm_1830_09_0070_01">. <composer key="compo_006311">Czerny (Jos.)</composer>
+                    <title>Unterhaltungen f. Pfte u. Violine, aus Opern, etc</title>.
+                        <title>10–14ter Heft</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J.
+                        Czerny</publisher> à 45 Xr.</wip>
+
+                <wip id="hofm_1830_09_0070_02">– – <title>do do f. Pfte u,
+                    Flöte</title>. <title>10–14ter Heft</title>. Ebend. à 45 Xr.</wip>
+
+                <wip id="hofm_1830_09_0070_03">– <composer key="compo_006918">Diabelli</composer>,
+                        <title>Concordance. Periodisches Werk f. Pfte u. Violine
+                    concertirend</title>. <title>Liv. 1–6 (die Stumme von Portici)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. à 45 Xr.</wip>
+
+                <bibl id="hofm_1830_09_0070_04">– <composer key="compo_024212">Müller (G.)</composer>
+                    <title>grand Duo p. Pfte et Violon. Oe. <opus key="opus_3181">5</opus>, in <key>D</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 1
+                    Thlr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_05">– – <title>Rondeau p. Pfte et Violon, Oe. <opus key="opus_0234">11</opus></title>. <pubPlace key="place_0078">Brauns</pubPlace>. <publisher key="publ_2686">Meyer j</publisher>. 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_06">– – Siehe auch <xref type="external" from="hofm_1830_09_0070_07" to="DITTO" targOrder="U">den folgenden
+                    Artikel</xref>.</bibl>
+
+                <bibl id="hofm_1830_09_0070_07">– <title>Potpourri p. Pfte et V. concertans tiré du
+                        Colporteur, d’après un Potpourri brillant de G. Müller p. Violon avec
+                    Orch</title>. <pubPlace key="place_0078">Brauns</pubPlace>. <publisher key="publ_2686">Meyer j</publisher>. 18
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_08">– <composer key="compo_032794">Spohr</composer>, <title>Polonaise
+                        concertante p. Pfte et Violon tirée de l’Oe. <opus key="opus_4241">79</opus>, in
+                            <key>A</key></title>. <pubPlace key="place_0078">Braunschweig</pubPlace>, <publisher key="publ_2686">Meyer j</publisher>. 16
+                    Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0070_div31">
+                <head rend="inline">
+                    <hofClass key="hofCl_0171">Qg</hofClass>.</head>
+                <bibl id="hofm_1830_09_0070_09"><composer key="compo_006306">Czerny (Carl)</composer>
+                    <title>concertirendes Quartett f. 4 Pfte, als Concertstück zu 4 Händen für Pfte
+                        arr. Op. <opus key="opus_1678">230</opus>, in <key>C</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 2 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0070_10">– – <title>die Orchestre- oder Quartettbegleitung
+                        dazu</title>. Ebend. 2 Fl. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_11">– <composer key="compo_006311">Czerny (Jos.)</composer>
+                    <title>3 Thêmes variés à 4 Mains. Oe. <opus key="opus_3738">63</opus>, No. 4 (Thême de
+                        la Muette de Portici.) No. 2 (le petit Tambour.) No. 3 (Tyrolienne de la
+                        Fiancée.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J. Czerny</publisher> à 45 Xr.</bibl>
+
+                <wip id="hofm_1830_09_0070_12">– <composer key="compo_006918">Diabelli</composer>,
+                        <title>Euterpe, eine Reihe moderner u. beliebter Tonstücke aus Opern etc. à
+                        4 Mains</title>, <title>No. 275–277</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_0735">Diabelli et C</publisher>. à 30 Xr.</wip>
+
+                <bibl id="hofm_1830_09_0070_13">– <composer key="compo_007793">Eberwein (M.)</composer>
+                    <title>Polonaise à 4 Mains, in <key>Es</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 14
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_14">– <composer key="compo_012729">Götze (C.)</composer>
+                    <title>Fantasie über die Marseiller Hymne zu 4 Händen</title>.
+                    <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_0437">Br. et Härtel</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_15">– <composer key="compo_015612">Hummel (J.N.)</composer>
+                    <title>neues Tyrolerlied mit Variazionen zu 4 Händen. Op. <opus key="opus_0358">118</opus>, in <key>F</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 1 Fl. 15
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_16">– <composer key="compo_019275">Kähler (C.L.)</composer>
+                    <title>4 petites Plaisanteries amusantes et instructives à 4 Mains. Oe. <opus key="opus_0806">15</opus></title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_1118">Friese</publisher> 10 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_17">– <composer key="compo_016971">Karr</composer>, <title>le Desir, Walse
+                        célèbre de L. van Beethoven variée à 4 Mains</title>.
+                    <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 48 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_18">– – <title>Variations à 4 Mains sur la dernière
+                        Pensée de C. M. de Weber</title>. Ebend. 48 Xr.</bibl>
+
+                <wip id="hofm_1830_09_0070_19">– <composer key="compo_022292">Marschner</composer>,
+                        <title>Pièces fugitives, faciles et brillantes à 4 Mains. Oe. <opus key="opus_3701">62</opus></title>, <title>Liv. 1, 2</title>. <pubPlace key="place_0274">Halberstadt</pubPlace>,
+                        <publisher key="publ_0478">Brüggemann</publisher> à 18 Gr.</wip>
+
+                <bibl id="hofm_1830_09_0070_20">– <composer key="compo_022690">Mayseder</composer>, <title>Variazionen
+                        über ein Thema von Mercadante, zu vier Händen arr. von Brunner</title>.
+                        <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_1118">Friese</publisher> 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_21">– <composer key="compo_024153">Müller (Ad.)</composer>
+                    <title>Bergknappenmarsch aus dem Schauspiel: das Bergknappenfest in Freiberg, zu
+                        4 Händen arr</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et
+                    C</publisher>. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_22">– – <title>3 Defilirmärsche zu dem Schauspiel: Graf
+                        Waltron, zu 4 Händen arr</title>. Ebend. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_23">– <composer key="compo_026573">Pixis (J.P.)</composer>
+                    <title>Variations (le Garçon suisse) arr. à 4 Mains, in <key>C</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 12
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_24">– <title>Sammlung beliebter Tänze zu 4 Händen. No.
+                        1, 2, 3</title>. <pubPlace key="place_0276">Hamb</pubPlace>. <publisher key="publ_0640">Cranz</publisher> à 4
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0070_25">– <composer key="compo_031477">Schwarz (M.)</composer>
+                    <title>Hausball-Galop zu vier Händen (Lieblingsgalop No. 30, in <key>E</key>.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 15 Xr.</bibl>
+</div>
+                <pb n="71"/>
+
+                <div id="hofm_1830_09_0070_div31_bis">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0171">Qg</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0071_01"> <composer key="compo_032662">Sowinski</composer>, <title>Marche héroïque des Parisiens arr. à 4
+                        Mains. Oe. <opus key="opus_1731">24</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>,
+                        <publisher key="publ_1746">Hofmeister</publisher> 6 Gr.</bibl>
+                
+
+                <bibl id="hofm_1830_09_0071_02">– <composer key="compo_032798">Spohr (L.)</composer>
+                    <title>Pietro von Abano, Oper zu 4 Händen arr, von F. Spohr</title>.
+                        <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3471">Schlesinger</publisher> 5 Thlr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0071_div32">
+                <head rend="inline">
+                    <hofClass key="hofCl_0272">Qh</hofClass>.</head>
+                <bibl id="hofm_1830_09_0071_03"><composer key="compo_001075">Auber</composer>, <title>Ouverture de la
+                        Fiancée à 4 Mains</title>. <pubPlace key="place_0069">Bonn</pubPlace>,
+                    <publisher key="publ_3791">Simrock</publisher> 2 Fr. 50 Ct.</bibl>
+
+                <bibl id="hofm_1830_09_0071_04">– – <title>Ouv. de Fra Diavolo à 4 Mains</title>.
+                        <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0071_05">– – <title>Ouv. de la Muette de Portici à 4
+                    Mains</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher> 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0071_06">– <composer key="compo_007246">Dorn (H.)</composer>
+                    <title>Festouverture zur Eröffnung des Hoftheaters in Leipzig, zu 4 Händen arr.
+                        (in <key>D</key>.)</title>
+                    <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_4067">Trautwein</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_07">– <composer key="compo_018763">Kreutzer (Conradin)</composer>
+                    <title>Ouv. zu Rossini’s Graf Ory, zu 4 Händen arr. (in <key>D</key>.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0071_08">– <composer key="compo_026573">Pixis (J.P.)</composer>
+                    <title>Ouv. aus Bibiana zu 4 Händen arr. (in <key>E</key>.)</title>
+                    <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_09">– <composer key="compo_027979">Reissiger</composer>,
+                        <title>Jubelouverture bei der Geburt des Prinzen Albert von Sachsen, zu 4
+                        Händen</title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_1118">Friese</publisher>
+                    16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_10">– <composer key="compo_028528">Ritter (P.)</composer>
+                    <title>Ouv. aus den beiden Eremiten zu 4 Händen arr</title>.
+                    <pubPlace key="place_0440">Mannheim</pubPlace>, <publisher key="publ_1534">Heckel</publisher> 54 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_11">– <composer key="compo_028968">Rossini</composer>, <title>Ouv. aus dem
+                        Türken in Italien, zu 4 Händen arr. von Diabelli (in <key>D</key>.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 1 Fl.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0071_div33">
+                <head rend="inline">
+                    <hofClass key="hofCl_0166">Qi</hofClass>.</head>
+                <bibl id="hofm_1830_09_0071_12"><composer key="compo_018759">Kreutzer (B.)</composer>
+                    <title>Sonatine f. Pfte. Op. <opus key="opus_1372">2</opus></title>. <pubPlace key="place_0440">Mannheim</pubPlace>, <publisher key="publ_1534">Heckel</publisher> 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_13">– <composer key="compo_021681">Löwe (C.)</composer>
+                    <title>grosse Sonate f. Pfte. Op. <opus key="opus_0927">16</opus>, in <key>E</key></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_4247">Wagenführ</publisher> 1 Thlr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_14">– <composer key="compo_037184">Winkler (C.F.L.)</composer>
+                    <title>Sonatine f. Pfte nach beliebten Thema’s aus der Stummen von
+                    Portici</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0640">Cranz</publisher> 6
+                    Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0071_div34">
+                <head rend="inline">
+                    <hofClass key="hofCl_0166">Qk</hofClass>.</head>
+                <bibl id="hofm_1830_09_0071_15"><composer key="compo_000092">Adam (Ad.)</composer>
+                    <title>Mélange sur des Motifs de Fra Diavolo p. Pfte. Oe. <opus key="opus_3140">49</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 12 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_16">– – <title>la Victoire est à nous, Fantaisie
+                        parisienne p. Pfte. Oe. <opus key="opus_3316">53</opus>, in <key>A</key></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3471">Schlesinger</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_17">– – <title>die Marseiller Hymne, Fantasie f. Pfte
+                        (in <key>C</key>.)</title> Ebend. 8 Gr.</bibl>
+
+                <wip id="hofm_1830_09_0071_18">– <title>Amateur, l', du Piano.
+                        Collection de Compositions faciles et brillantes p. Pfte</title>.
+                        <title>Cah. 1–3</title>. (Siehe Qk. <xref type="external" from="hofm_1830_09_0071_22" to="DITTO" targOrder="U">Czerny, Oe. <opus key="opus_1683">231, No. 1–3</opus></xref>.) <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_2993">Paul</publisher> à 8 Gr.</wip>
+
+                <bibl id="hofm_1830_09_0071_19">– Auber, 12 Pièces de l’Opéra Fra Diavolo arr. d’une
+                    Manière facile p. Pfte. <pubPlace key="place_0438">Mainz</pubPlace>,
+                    <publisher key="publ_3563">Schott</publisher> 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0071_20">– <composer key="compo_006306">Czerny (C.)</composer>
+                    <title>6 Rondeaux d’Amusement p. Pfte. Oe. <opus key="opus_1420">201, No. 1–6</opus>,
+                        in <key>A</key>, <key>E</key>, <key>Es</key>,
+                            <key>C</key>, <key>Em</key>. <key>Es</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 2 Thlr. 12
+                    Gr. (einzeln à 12 Gr.)</bibl>
+
+                <bibl id="hofm_1830_09_0071_21">– – <title>concertirendes Quartett f. 4 Pfte als
+                        Concertstück f. Pfte solo arr. Op. <opus key="opus_1678">230</opus>, in <key>C</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 2 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0071_22">– – <title>3 Rondeaux mignons faciles et brillans
+                        sur divers Motifs favoris p. Pfte. Oe. <opus key="opus_1681">231</opus>. No. 1,
+                        d’Elisa e Claudio. No. 2, de l’Italiana. No. 3, du Maçon</title>.
+                        <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_2993">Paul</publisher> à 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_23">– <composer key="compo_007777">Ebers</composer>, <title>grosses
+                        Potpourri nach den beliebtesten Melodieen der Oper Fra Diavolo oder das
+                        Gasthaus zu Terracina f. Pfte</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                        <publisher key="publ_3471">Schlesinger</publisher> 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0071_24">– <composer key="compo_008476">Erfurt</composer>, <title>Notturno p.
+                        Pfte. Oe. <opus key="opus_3565">6</opus>, in <key>Es</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 8
+                    Gr.</bibl>
+
+                <wip id="hofm_1830_09_0071_25">– <composer key="compo_011400">Gluck</composer>,
+                        <title>Lieblingsmelodieen aus der Oper Armida f. Pfte arr. von
+                    Ebers</title>. <title>2 Hefte</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                        <publisher key="publ_3471">Schlesinger</publisher> à 14 Gr.</wip>
+</div>
+                <pb n="72"/>
+
+                <div id="hofm_1830_09_0071_div34_bis">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0166">Qk</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0072_01"><composer key="compo_015445">Horzalka</composer>, <title>Rondeau hongrois p. Pfte. Oe.
+                        <opus key="opus_1999">28</opus>, in <key>Es</key></title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_0735">Diabelli et C</publisher>. 1 Fl. </bibl>
+                
+
+                <bibl id="hofm_1830_09_0072_02">– <composer key="compo_015944">Hünten (Fr.)</composer>
+                    <title>Fantaisie brillante sur des Thêmes de Semiramis p. Pfte. Oe. <opus key="opus_2066">29</opus></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0540">Böhme</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_03">– – <title>2 Rondeaux sur des Motifs de Rossini
+                        (Edouard et Christine – Mathilde de Sabran – ) p. Pfte. Oe. <opus key="opus_2850">42</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 12 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_04">– <composer key="compo_015640">Hunyady (B. de)</composer>
+                    <title>Airs nationaux hongrois p. Pfte. Oe. <opus key="opus_0531">13</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3011">Pennauer</publisher> 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_05">– <composer key="compo_016826">Kalkbrenner (F.)</composer>
+                    <title>Introduction et Rondeau brillant p. Pfte. Oe. <opus key="opus_0065">101</opus>,
+                        in <key>C</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_06">– – <title>Adagio ed. Allegro di Bravura p. Pfte.
+                        Op. <opus key="opus_0094">102</opus>, in <key>As</key></title>. Ebendaselbst 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_07">– <composer key="compo_016971">Karr</composer>, <title>Fantaisie sur la
+                        Cavatine de Mathilde de Sabran p. Pfte</title>. <pubPlace key="place_0438">Mainz</pubPlace>,
+                        <publisher key="publ_3563">Schott</publisher> 48 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_08">– – <title>Mélange sur des Motifs de Mathilde de
+                        Sabran p. Pfte</title>. Ebend. 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0072_09">– <composer key="compo_018762">Kreutzer (C.K.)</composer>
+                    <title>3 Solos p. Pfte</title>. <pubPlace key="place_0440">Mannheim</pubPlace>,
+                    <publisher key="publ_1534">Heckel</publisher> 36 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_10">– <composer key="compo_019101">Kulenkamp</composer>,
+                        <title>Introduction et Rondeau p. Pfte. Oe. <opus key="opus_1881">26</opus>, in
+                            <key>Es</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 12
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_11">– <composer key="compo_022503">Mattheson</composer>, <title>Doppelfugen
+                        mit 2 und 3 Subjecten f. Pfte</title>. <pubPlace key="place_0392">Leipzig</pubPlace>,
+                        <publisher key="publ_1746">Hofmeister</publisher> 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_12">– <composer key="compo_022612">Mayer (Charles)</composer>
+                    <title>grand Rondeau brillant p. Pfte. Oe. <opus key="opus_1999">28</opus>, in <key>D</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 1 Thlr. 8
+                    Gr.</bibl>
+
+                <wip id="hofm_1830_09_0072_13">– <composer key="compo_024151">Müller (A.E.)</composer>
+                    <title>instructive Uebungsstücke für die ersten Anfänger auf dem Pfte. als
+                        Supplemente zum kleinen Elementarbuche für Klavierspieler</title>. <title>6
+                        Hefte, <edition>Neue correcte Ausgabe</edition>
+                    </title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> à 12 Gr.</wip>
+
+                <bibl id="hofm_1830_09_0072_14">– <composer key="compo_025940">Payer (J.)</composer>
+                    <title>Fantaisie sur la Tyrolienne de Guillaume Tell p. Pfte. Oe. <opus key="opus_0706">140</opus>, in <key>G</key></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 12 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_15">– – <title>le Tocsin, la Resistance et la Victoire,
+                        Tableau des 27. 28 et 29 Juillet 1830 à Paris p. Pfte. Oe. <opus key="opus_0776">147</opus>, in <key>D</key></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3471">Schlesinger</publisher> 18 Gr.
+                        <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher>,
+                        <publisher key="publ_3109">Probst</publisher> 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_16">– – <title>la Prise d’Alger. Algiers Einnahme,
+                        militairisches Tongemälde f. Pfte. Op. <opus key="opus_0783">148</opus>, in <key>F</key></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3471">Schlesinger</publisher> 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_17">– <composer key="compo_026573">Pixis (J.P.)</composer>
+                    <title>Souvenir de Loudres, Rondeau écossais p. Pfte. Oe. <opus key="opus_0163">106</opus>, in <key>G</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 8
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_18">– – <title>Rondo polacca p. Pfte. Op. <opus key="opus_0182">107</opus>, in <key>D</key></title>. Ebend. 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_19">– – <title>Caprice brillant sur une Tarantelle
+                        favorite napolitaine p. Pfte. Oe. <opus key="opus_0198">108</opus>, in <key>A m</key></title>. Ebend. 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_20">– <title>Potpourri aus der Oper Fra Diavolo leicht
+                        f. Pfte arr</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                    <publisher key="publ_3949">Struve</publisher> 10 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_21">– – <title>nach den beliebtesten Melodieen der Oper:
+                        die Vestalin, von Spontini, f. Pfte</title>.
+                    <pubPlace key="place_0078">Braunschweig</pubPlace>, <publisher key="publ_2686">Meyer j</publisher>. 10 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_22">– – <title>d’après des Thêmes de l’Opéra : les deux
+                        Nuits, p. Pfte</title>. <pubPlace key="place_0276">Hamburg</pubPlace>,
+                    <publisher key="publ_0640">Cranz</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_23">– <composer key="compo_027117">Promberger (J.)</composer>
+                    <title>Erinnerungen an Ungarn, eine characteristische Fantasie f. Pfte. Op.
+                            <opus key="opus_0001">1</opus>, in <key>A</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0072_24">– <composer key="compo_028394">Ries (Ferd.)</composer>
+                    <title>Rondeau p. Pfte. Oe. <opus key="opus_0903">157, No. 1</opus>, in <key>Es</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 12
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_25">– – <title>Rondeau alla Tedesca p. Pfte. Oe. <opus key="opus_0906">157, No. 2</opus>, in <key>D</key></title>. Ebend. 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0072_26">– <composer key="compo_028523">Ritter (K.A.)</composer>
+                    <title>Polonaise über den Tyroler Ländler aus Wilhelm Tell f. Pfte</title>.
+                        <pubPlace key="place_0440">Mannheim</pubPlace>, <publisher key="publ_1534">Heckel</publisher> 54 Xr.</bibl>
+  </div>
+                <pb n="73"/>
+
+                <div id="hofm_1830_09_0071_div34_ter">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0166">Qk</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0073_01"> <title>Rondo für Pianoforte
+                        über den Walzer: Herr Schmidt</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                        <publisher key="publ_3949">Struve</publisher> 4 Gr.</bibl>
+              
+
+                <bibl id="hofm_1830_09_0073_02">– <composer key="compo_031254">Schulz (Ed.)</composer>
+                    <title>Fantaisie brillante sur des Thêmes de l’Opéra il Pirata de Bellini p.
+                        Pfte</title>. <pubPlace key="place_0392">Leipzig</pubPlace>,
+                    <publisher key="publ_1746">Hofmeister</publisher> 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_03">– <composer key="compo_033823">Succo (F.A.)</composer>
+                    <title>Rondeau melodieux et brillant p. Pfte. Oe. <opus key="opus_1372">2</opus>, in
+                            <key>Es</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_04">– <composer key="compo_034168">Taubert (W.)</composer>
+                    <title>Rondo grazioso p. Pfte. Op. <opus key="opus_2116">3</opus>, in <key>G</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 12
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_05">– <composer key="compo_034333">Thamm (Jda)</composer>
+                    <title>Potpourri nach den beliebtesten Melodieen der Oper Fra Diavolo von Auber,
+                        f. Pfte</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                    <publisher key="publ_4247">Wagenführ</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_06">– <composer key="compo_037184">Winkler (C.F.L.)</composer>
+                    <title>Introduction et Rondeáu p. Pfte. d’après la Barcarole de la Muette de
+                        Portici</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0640">Cranz</publisher>
+                    8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_07">– <composer key="compo_037491">Wolff (E.)</composer>
+                    <title>Allegro brillante p. Pfte. Op. <opus key="opus_0021">10</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J. Czerny</publisher> 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_08">– <composer key="compo_038084">Zieger</composer>. <title>Bijoux à la
+                        Paganini, ou Divertissement p. Pfte. Oe. <opus key="opus_3565">6</opus></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0640">Cranz</publisher> 8 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0073_div35">
+                <head rend="inline">
+                    <hofClass key="hofCl_0291">Ql</hofClass>.</head>
+                <bibl id="hofm_1830_09_0073_09"><composer key="compo_014550">Herz (H.)</composer> et
+                    <composer key="compo_004899">Beriot</composer>, <title>Variations concertantes sur la Tyrolienne
+                        favorite de la Fiancée p. Pfte et Violon. Oe. <opus key="opus_3416">56</opus>, in
+                            <key>A</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 1 Thlr. 4
+                    Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0073_div36">
+                <head rend="inline">
+                    <hofClass key="hofCl_0292">Qm</hofClass>.</head>
+                <bibl id="hofm_1830_09_0073_10"><composer key="compo_008476">Erfurt</composer>, <title>Variations
+                        (Sehnsuchtswalzer) p. Pfte, Oe. <opus key="opus_3967">7</opus>, in <key>G</key></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 12
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_11">– <composer key="compo_008841">Falke (C.)</composer>
+                    <title>Var. (Ich bin liederlich,) f. Pfte. Op. <opus key="opus_0001">1</opus></title>. <pubPlace key="place_0020">Arnstadt</pubPlace>, <publisher key="publ_1680">Hildebrand in
+                    Commission</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_12">– <composer key="compo_014550">Herz (H.)</composer>
+                    <title>Variations brillantes p. Pfte sur un Thême original. Oe. <opus key="opus_3385">55</opus>. in <key>Es</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_13">– <composer key="compo_015944">Hünten (Fr.)</composer>
+                    <title>Var. (Nur noch ein Walzer) p. Pfte. Oe. <opus key="opus_0531">13</opus>, in <key>G</key></title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0540">Böhme</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_14">– – <title>Var. brillantes sur une Cavatine de
+                        Meyerbeer p. Pfte. Oe. <opus key="opus_2804">41</opus></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 12 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_15">– <composer key="compo_016821">Kalkbrenner</composer>, <title>„God save
+                        the King,“ Variazioni di Bravura con Introduzione e Finale p. Pfte. Op.
+                            <opus key="opus_4738">99</opus>, in <key>D</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_16">– <composer key="compo_022789">Meineke</composer>, <title>Var.
+                        brillantes sur un Thême de Moïse de Rossini p. Pfte. Oe. <opus key="opus_1390">20</opus>, in <key>F</key></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_17">– <composer key="compo_025934">Pax</composer>, <title>Var (Steh nur
+                        auf, du Schweizerbub) p. Pfte. (in <key>Es</key>.)</title>
+                    <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_0224">Bechtold u. Hartje</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_18">– <composer key="compo_026573">Pixis (J.P.)</composer>
+                    <title>der Schweizerbue, Arie mit Veränderungen zum Behufe der Concerte der
+                        Dslle Sonntag, f. Pfte. arr. (in <key>C</key>.)</title>
+                    <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_19">– <composer key="compo_026585">Plachy</composer>, <title>Introduction
+                        et Var. (Marche favorite de la Muette de Portici) p. Pfte. Oe. <opus key="opus_3454">57</opus>, in <key>C</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 45
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_20">– <composer key="compo_031288">Schulz (de Lübeck)</composer>
+                    <title>Introd. et Variations sur un Thême original p. Pfte. Oe. <opus key="opus_3565">6</opus>, in <key>D</key></title>. <pubPlace key="place_0519">Offenbach</pubPlace>, <publisher key="publ_0065">André</publisher> 1 Fl. 30
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_21">– <composer key="compo_032662">Sowinski</composer>, <title>la
+                        Parisienne, Marche nationale variée p. Pfte. Oe. <opus key="opus_1802">25</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher>,
+                        <publisher key="publ_1746">Hofmeister</publisher> 14 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0073_div37">
+                <head rend="inline">
+                    <hofClass key="hofCl_0270">Qn</hofClass>.</head>
+                <bibl id="hofm_1830_09_0073_22"><composer key="compo_001075">Auber</composer>, <title>Ouverture aus
+                        der Stummen von Portici f. Pfte u. Violine arr. von Jos. Czerny</title>.
+                        <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J. Czerny</publisher> 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_23">– – <title>dieselbe f. Pfte u. Flöte arr</title>.
+                    Ebend. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_24">– <composer key="compo_018763">Kreutzer (Conradin)</composer>
+                    <title>Ouverture zu Rossini’s Graf Ory, f. Pfte (in <key>D</key>.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_25">– <composer key="compo_026573">Pixis (J.P.)</composer>
+                    <title>Ouverture aus Bibiana f. Pfte (in <key>E</key>.)</title>
+                    <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0073_26">– <composer key="compo_027979">Reissiger</composer>,
+                        <title>Iubelouverture bei der Geburt des Prinzen Albert von Sachsen f.
+                    Pfte</title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_1118">Friese</publisher> 12 Gr.</bibl>
+
+            </div>  <pb n="74"/>
+            <div id="hofm_1830_09_0073_div38">
+                <head rend="inline">
+                    <hofClass key="hofCl_0289">Qo</hofClass>.</head>
+              
+
+                <bibl id="hofm_1830_09_0074_01"><title>Alpensängerwalzer f.
+                    Pfte</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3949">Struve</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_02">– <composer key="compo_001075">Auber</composer>, <title>Galop nach Fra
+                        Diavolo f. Pfte</title>. Ebend. 2 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_03">– <composer key="compo_002076">Beethoven</composer>, <title>Jubelwalzer
+                        f. Pfte</title>. <pubPlace key="place_0440">Mannheim</pubPlace>,
+                    <publisher key="publ_1534">Heckel</publisher> 9 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_04">– <composer key="compo_004966">Böhme (O.)</composer>
+                    <title>Amour et Hymen. Brautstand u. Ehe in 14 characteristischen Walzern mit
+                        Text f. Pfte. Op. <opus key="opus_2116">3</opus>. <edition>2te Auflage</edition>
+                    </title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_1118">Friese</publisher> 14 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_05">– <title>Brillant- u. Modewalzer (Berliner) f.
+                    Pfte</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3949">Struve</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_06">– <composer key="compo_006128">Cratzel</composer>, <title>Berliner
+                        Dischbraziohns- oder sanfter Heinrichswalzer f. Pfte (mit colorirter
+                        Vignette u. Text.)</title>
+                    <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_4247">Wagenführ</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_07">– <composer key="compo_007323">Drechsler</composer>, <title>3
+                        Galopwalzer über beliebte Gesänge aus dem Bauer als Millionair f.
+                    Pfte</title>. <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0640">Cranz</publisher> 2 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_08">– <composer key="compo_008350">Engelberth (A.)</composer>
+                    <title>der Familienball im geselligen Kreise, oder alle nur mögliche bei einem
+                        Ball vorkommende Tänze f. Pfte. Mit einer Tanzordnung u. neuen
+                    Touren</title>. <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_1118">Friese</publisher> 1
+                    Thlr. 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_09">– <composer key="compo_008476">Erfurt</composer>, <title>2 grandes
+                        Walses brillantes p. Pfte. Oe. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 8
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_10">– <composer key="compo_008824">Faistenberger</composer>, <title>Walzer
+                        zum Abenteuer auf einer Reise mit dem Eilwagen, f. Pfte</title>.
+                        <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 20 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_11">– <title>Favoritmasureks, 5 Warschauer, f.
+                    Pfte</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_4247">Wagenführ</publisher> 4
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_12">– <composer key="compo_009254">Filhol (Jean)</composer>
+                    <title>Comiker als Schnellläufer zu Pferde gezeichnet, mit der Musik dazu f.
+                        Pfte arr</title>. <pubPlace key="place_0147">Dresden</pubPlace>,
+                    <publisher key="publ_1118">Friese</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_13">– <title>Freiheitstänze. Pariser, f. Pfte</title>.
+                        <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0640">Cranz</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_14">– <composer key="compo_011576">Golde (H.J.)</composer>
+                    <title>12 Tänze f. Pfte. Liv. 13</title>. <pubPlace key="place_0181">Erfurt</pubPlace>,
+                        <publisher key="publ_2681">Meyer</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_15">– <composer key="compo_012794">Haaka (W.)</composer>
+                    <title>10 Leipziger Balltänze f. Pfte. Op. <opus key="opus_3565">6</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_16">– – <title>3 Balltänze nach Ioco f. Pfte</title>.
+                    Ebend. 3 Gr.</bibl>
+
+                <wip id="hofm_1830_09_0074_17">– <title>Huldigung der Freude. Eine
+                        Sammlung ausgewählter Modetänze f. Pfte</title>. <title>No. 77, 78</title>.
+                        <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> à 3 Gr.</wip>
+
+                <wip id="hofm_1830_09_0074_18">– <composer key="compo_019508">Küffner</composer>,
+                        <title>Danses tirées de l’Opéra Guillaume Tell p. Pfte</title>. <title>No.
+                        1, Walse suisse</title>. <title>No. 2, Masurka</title> (à 8 Xr.) <title>No.
+                        3, Walse tyrolienne</title>. <title>No. 4–6, Walse suisse</title> (à 16 Xr.)
+                        <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher>.</wip>
+
+                <bibl id="hofm_1830_09_0074_19">– <composer key="compo_019101">Kulenkamp</composer>, <title>12 Danses
+                        p. Pfte. Oe. <opus key="opus_1731">24</opus></title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 16
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_20">– <title>Lieblingstänze f. Pfte. No. 1 u. 2</title>.
+                        <pubPlace key="place_0440">Mannheim</pubPlace>, <publisher key="publ_1534">Heckel</publisher> 36 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_21">– <composer key="compo_022632">Mayer (J.) genannt Zwicker</composer>,
+                        <title>echte Oberländer f. Pfte. Liv. 1</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_1506">Haslinger</publisher> 20 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_22">– – <title>Lorchenfelder Bierhausländler f. Pf. Liv.
+                        2</title>. Ebend. 20 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_23">– <composer key="compo_023749">Morelly</composer>,
+                        <title>Schnepfenwalzer f. Pfte. Op. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 30
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_24">– <composer key="compo_024736">Neumayer</composer>, <title>Souvenir à
+                        Jeutendorf, 3 Polonaises p. Pfte. Oe. <opus key="opus_0392">12</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 20
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_25">– <composer key="compo_027318">Queisser (C.) senior</composer>,
+                        <title>12 Leipziger Casinotänze f. Pfte</title>.
+                    <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_4464">Wolbrecht</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_26">– <composer key="compo_029470">S*******m (Baronesse v.)</composer> u.
+                        <composer key="compo_018759">B. Kreutzer</composer>, <title>Walzer f. Pfte</title>.
+                        <pubPlace key="place_0440">Mannheim</pubPlace>, <publisher key="publ_1534">Heckel</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_27">– <composer key="compo_031097">Schröter (C.F.)</composer>
+                    <title>Walse de Bravoure p. Pfte</title>. <pubPlace key="place_0276">Hamburg</pubPlace>,
+                        <publisher key="publ_0640">Cranz</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0074_28">– <composer key="compo_031204">Schultz (C.)</composer>
+                    <title>6 Walses brillantes p. Pfte. Oe. <opus key="opus_0234">11</opus></title>. <pubPlace key="place_0069">Bonn</pubPlace>, <publisher key="publ_3791">Simrock</publisher> 1 Fr. 50 Ct.</bibl>
+
+                <bibl id="hofm_1830_09_0074_29">– <composer key="compo_031477">Schwarz (M.)</composer>
+                    <title>Hausballgalop f. Pfte</title>. (Lieblingsgalop No. 30.)
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 10 Xr.</bibl>
+ </div>
+                <pb n="75"/>
+
+                <div id="hofm_1830_09_0073_div38_bis">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0289">Qo</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0075_01"> <composer key="compo_033546">Strauss</composer>, <title>des Verfassers beste Laune, Charmantwalzer
+                        f. Pfte. Op. <opus key="opus_2187">31</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_1506">Haslinger</publisher> 45 Xr.</bibl>
+               
+
+                <bibl id="hofm_1830_09_0075_02">– – <title>Schwarz’sche Balltänze, Cotillons nach
+                        Melodieen aus der Stummen von Portici f. Pfte. Op. <opus key="opus_2268">32</opus></title>. Ebend. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_03">– <composer key="compo_033598">Strebinger</composer>, <title>Cotillon
+                        aus dem Lagerfeste f. Pfte</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J.
+                        Czerny</publisher> 20 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_04">– <title>Tänze nach der Vestalin von Spontini f.
+                        Pfte</title>. <pubPlace key="place_0078">Brauns</pubPlace>. <publisher key="publ_2686">Meyer jun</publisher>.
+                    8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_05">– <composer key="compo_034636">Tivoli (A.)</composer>
+                    <title>Besänftigungswalzer als Antwort auf den Berliner Dischbraziohnswalzer, f.
+                        Pfte (mit colorirter Vignette u. Text.)</title>
+                    <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_4247">Wagenführ</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_06">– <composer key="compo_034662">Tolbecque</composer> et
+                        <composer key="compo_005876">Collinet</composer>, <title>2 Quadrilles p. Pfte</title>.
+                        <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_4534">Zirges</publisher> 12 Gr.</bibl>
+
+                <wip id="hofm_1830_09_0075_07">– <title>Walse favorite p. Pfte</title>.
+                        <title>No. 346–350</title>. <pubPlace key="place_0438">Mainz</pubPlace>,
+                    <publisher key="publ_3563">Schott</publisher> à 8 Xr.</wip>
+
+            </div>
+            <div id="hofm_1830_09_0075_div39">
+                <head rend="inline">
+                    <hofClass key="hofCl_0250">Qp</hofClass>.</head>
+                <bibl id="hofm_1830_09_0075_08"><composer key="compo_000004">A. (L. v.)</composer>
+                    <title>3 griechische Märsche f. Pfte</title>. <pubPlace key="place_0339">Carlsr</pubPlace>.
+                        <publisher key="publ_2577">Marx</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_09">– <title>Alpensänger-Marsch f. Pfte</title>.
+                        <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3949">Struve</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_10">– <composer key="compo_002659">Berr</composer>, <title>la Parisienne,
+                        Marche nationale arr. en Pas redoublé p. Pfte, (in <key>Es</key>.)</title>
+                    <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 16 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_11">– <composer key="compo_017171">Keller (C.A.)</composer>
+                    <title>2 Festmärsche zum Gebrauch der akademischen Bürger bei der Feier des 31.
+                        Oct. 1830, f. Pfte</title>. <pubPlace key="place_0392">Leipzig</pubPlace>,
+                        <publisher key="publ_1746">Hofmeister</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_12">– <composer key="compo_010419">Fürstenau (A.B.)</composer>
+                    <title>Dresdner Communalgarden-Marsch f. Pfte</title>.
+                    <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_2661">Meser</publisher> 2 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_13">– <title>Marche des Marseillais arr. p.
+                    Pfte</title>. <pubPlace key="place_0519">Offenb</pubPlace>. <publisher key="publ_0065">André</publisher> 8 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_14">– <title>Marches (les deux) favorites des Héros
+                        russes, le Comte Paskewitsch-Eriwansky, et le Comte Diebitzsch-Sabalkansky,
+                        p. Pfte</title>. <pubPlace key="place_0339">Carlsruhe</pubPlace>
+                    <publisher key="publ_2577">Marx</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_15">– <composer key="compo_024153">Müller (Ad.)</composer>
+                    <title>Bergknappenmarsch aus dem Schauspiel: die Bergknappen in Freiberg, f.
+                        Pfte arr</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et
+                    C</publisher>. 20 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_16">– – <title>3 Defilirmärsche zu dem Schauspiel: Graf
+                        Waltron, f. Pfte arr</title>. Ebend. 20 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_17">– <composer key="compo_024179">Müller (C.G.)</composer>
+                    <title>2 Märsche der Leipziger Bürgerschützen f. Pfte</title>.
+                    <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 3 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_18">– <composer key="compo_024569">Neithardt (A.)</composer>
+                    <title>Festmarsch zur Vermählung des Prinzen Albrecht von Preussen, f.
+                    Pfte</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_4067">Trautwein</publisher> 6
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_19">– <composer key="compo_024594">Nemetz</composer>, <title>neueste
+                        Favoritmärsche f. Pfte. No. 1, 2, 3</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_1506">Haslinger</publisher> à 10 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_20">– <composer key="compo_032662">Sowinski</composer>, <title>Marche
+                        héroïque des Parisiens p. Pfte. Oe. <opus key="opus_1731">24</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_1746">Hofmeister</publisher>,
+                        <publisher key="publ_3023">Peters</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_21">– <composer key="compo_036589">Weller (F.)</composer>
+                    <title>die Sonntagsparade des k. preuss. 2ten Garderegiments, beliebte Märsche
+                        f. Pfte</title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_3949">Struve</publisher>
+                    6 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0075_div40">
+                <head rend="inline">
+                    <hofClass key="hofCl_0072">Qq</hofClass>.</head>
+                <bibl id="hofm_1830_09_0075_22"><composer key="compo_006111">Cramer (J.B.)</composer>
+                    <title>praktische Pianoforteschule. <edition>Neueste, umgearbeitete u.
+                            vervollständigte Ausgabe</edition>
+                    </title>. <pubPlace key="place_0274">Halberstadt</pubPlace>, <publisher key="publ_0478">Brüggemann</publisher> 1
+                    Thlr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_23">– <composer key="compo_024151">Müller (A.E.)</composer>
+                    <title>kleines Elementarbuch für Klavierspieler, als wesentliche Grundlage der
+                        Kunst das Klavier oder Pfte zu spielen. <edition>Neue elegante Ausgabe in
+                            Steindruck mit Zusätzen von C. Czerny</edition>
+                    </title>. Quer 4. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 1
+                    Thlr. 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0075_24">– <composer key="compo_031148">Schuberth (G.)</composer>
+                    <title>kurze Anleitung für die ersten Anfänger im Pfte-Spielen nach Cramer,
+                        Czerny u. Hummel</title>. Gr. qu. 4. <pubPlace key="place_0276">Hamburg</pubPlace>,
+                        <publisher key="publ_3607">Schuberth et Niemeyer</publisher> 8 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0075_div41">
+                <head rend="inline">
+                    <hofClass key="hofCl_0225">Ra</hofClass>.</head>
+                <pb n="76"/>
+
+                <bibl id="hofm_1830_09_0076_01"><composer key="compo_001039">Assmayer</composer>, <title>das deutsche
+                        Segen- u. Messlied, mit Vor- u. Zwischenspielen f. die Orgel. Op. <opus key="opus_3071">47</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 24 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_02">– <composer key="compo_024263">Müller (P.)</composer>
+                    <title>10 Adagios f. die Orgel. Op. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0519">Offenb</pubPlace>. <publisher key="publ_0065">André</publisher> 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_03">– <composer key="compo_028470">Rink</composer>. <title>30 Préludes
+                        faciles dans les Tous majeurs et mineurs p. Orgue. Oe. <opus key="opus_4639">93</opus></title>. <pubPlace key="place_0069">Bonn</pubPlace>, <publisher key="publ_3791">Simrock</publisher> 2 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_04">– <title>Sammlung von 400 auserlesenen
+                        Zwischenspielen n. 100 vorzüglichen Ausweichungen durch alle Tonarten für
+                        die Orgel. Für angehende Organisten, Lehrer u. Seminaristen</title>. Quer 4.
+                        <pubPlace key="place_0696">Ulm</pubPlace>. <publisher key="publ_3903">Stettin in Commission</publisher> 9 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0076_div42">
+                <head rend="inline">
+                    <hofClass key="hofCl_0210">Se</hofClass>.</head>
+                <bibl id="hofm_1830_09_0076_05"><composer key="compo_003425">Bochsa (N.C. Fils)</composer>
+                    <title>12 Leçons élémentaires avec Préludes p. Harpe. Oe. <opus key="opus_0927">16</opus></title>. <pubPlace key="place_0069">Bonn</pubPlace>. <publisher key="publ_3791">Simrock</publisher> 2 Fr. 50 Ct.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0076_div43">
+                <head rend="inline">
+                    <hofClass key="hofCl_0068">Ua</hofClass>.</head>
+                <bibl id="hofm_1830_09_0076_06"><composer key="compo_000215">Aiblinger</composer>, <title>Offertoire
+                        (Jubilate Deo – Jauchzet Gott) à 4 Voix sans Accompagnement. <format>Partition et Parties séparées</format></title>. <pubPlace key="place_0438">Mainz</pubPlace>, <publisher key="publ_3563">Schott</publisher> 1 Fl. 36 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_07">– – <title>Offertoire (Deus, noster Deus – Gott, du
+                        unser Gott) p. 2 Sopr. 2 Altos. 2 Tenores et 2 Basses. <format>Partition et Parties séparées</format>
+                    </title>. Ebend. 1 Fl. 36 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_08">– <composer key="compo_001225">Bach (J.S.)</composer>
+                    <title>Kirchenmusik zu 4 Singst. 1ster Band, in <format>Partitur</format>. (1: Litanei. 2: Herr, deine Augen; 3: Ihr werdet
+                        weinen.)</title>
+                    <pubPlace key="place_0069">Bonn</pubPlace>
+                    <publisher key="publ_3791">Simrock</publisher> 9 Fr. </bibl>
+                <bibl id="hofm_1830_09_0076_09">– – <title>do do. 1ster Band, die <format>Singstimmen</format> einzeln</title>. Ebend. 3 Fr.</bibl>
+                <bibl id="hofm_1830_09_0076_10">– – <title>do do. 2ter Band, in <format>Partitur</format>. (4: Du Hirte Israel. 5: Herr, gehe nicht ins
+                        Gericht. 6: Gottes Zeit ist die allerbeste Zeit.)</title> Ebend. 10 Fr. </bibl>
+                <bibl id="hofm_1830_09_0076_11">– – <title>2ter Band, die <format>Singstimmen</format> einzeln</title>. Ebend. 3 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_12">– – <title>
+                        <format>Singstimmen</format> zur Missa No. 2, in <key>G</key></title>. Ebend. 2 Fr. 50 Ct.</bibl>
+
+                <bibl id="hofm_1830_09_0076_13">– <composer key="compo_007913">Effenberger</composer>, <title>4 Choräle
+                        mit kleiner Begleitung</title>. <pubPlace key="place_0235">Glogau</pubPlace>,
+                        <publisher key="publ_1663">Heymann</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_14">– <composer key="compo_008725">Eybler</composer>, <title>Messe No. 6,
+                        in <key>F</key> (de Sto. Rainero) f. 4 Singst. u. Orchestre.
+                            <format>Partitur</format>
+                    </title>. (Musica sacra No. 11.) <pubPlace key="place_0731">Wien</pubPlace>,
+                    <publisher key="publ_1506">Haslinger</publisher> 9 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0076_15">– – <title>dieselbe in <format>Stimmen</format>
+                    </title>. Ebend. 9 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0076_16">– – <title>Graduale No. 6, in <key>F</key>                        (Non in Multitudine) f. 4 Singst. u. Orchestre. <format>Partitur</format>
+                    </title>. Ebend. 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0076_17">– – <title>dasselbe in <format>Stimmen</format>
+                    </title>. Ebend. 1 Fl. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_18">– – <title>Offertorium No. 6, in <key>C</key> (Timebunt Gentes) f. 4 Singst. u. Orchestre. <format>Partitur</format>
+                    </title>. Ebend. 1 Fl. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_19">– – <title>dasselbe in <format>Stimmen</format>
+                    </title>. Ebend. 2 Fl. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_20">– <composer key="compo_015044">Hoffmann (C.J.A.)</composer>
+                    <title>Sammlung 4stimmiger Gesänge zum Gebrauch bei dem öffentl. Gottesdienste
+                        auf kathol. Gymnasien, so wie bei Begräbnissen</title>. 4.
+                    <pubPlace key="place_0082">Breslau</pubPlace>, <publisher key="publ_0015">Aderholz</publisher> 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_21">– <composer key="compo_015612">Hummel (J.N.)</composer>
+                    <title>3te Messe f. 4 Singst. mit Orchestre u. Orgel. Lateinisch u. deutsch.
+                            <format>Partitur</format>. Op. <opus key="opus_0267">111</opus>, in
+                            <key>D</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 9 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0076_22">– – do do in <format>Stimmen</format>.
+                    Ebend. 9 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0076_23">– <composer key="compo_022366">Marx (A.B.)</composer>
+                    <title>3 Chorgesänge, 4- u. 6stimmig mit Pfte</title>.
+                    <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_0437">Br. u. Härtel</publisher> 1 Thlr. 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_24">– <composer key="compo_023829">Mosel (J.F. v.)</composer>
+                    <title>Danklied an den Ewigen, aus dem 9ten Psalm, für 6stimmigen Chor</title>.
+                        <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0076_25">– <composer key="compo_025102">Nägeli</composer>, <title>Chorlieder f.
+                        Kirche u. Schule. <format>Partitur</format>. 5tes Heft</title>.
+                        <pubPlace key="place_0767">Zürich</pubPlace>, <publisher key="publ_2902">Nägeli</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0076_26">– – <title>dieselben in <format>Stimmen</format>, 5tes Heft</title>. Ebend. 10 Gr.</bibl>
+
+                <pb n="77"/>
+
+                <album id="hofm_1830_09_0077_01">. <title>Orgeltöne, geistliche Lieder
+                        gedichtet von Ant. Passy, componirt von <composer key="compo_001039">Assmayer</composer>,
+                            <composer key="compo_032123">Seyfried</composer>, <composer key="compo_032866">Stadler</composer> etc. (nebst
+                        alten wenig bekannten Melodieen.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 3 Fl.</album>
+
+                <bibl id="hofm_1830_09_0077_02">– <composer key="compo_029041">Rotter</composer>, <title>Tantum ergo,
+                        f. 4 Singstimmen mit Orchestre u. Orgel</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_0671">J. Czerny</publisher> 15 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_03">– <composer key="compo_029225">Rungenhagen</composer>, <title>Motette:
+                        Kommt lasst uns hinauf, f. 4 Singst. mit Orgel oder Pfte. No. 4. Op. <opus key="opus_2131">30</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_4067">Trautwein</publisher> 18 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_04">– <composer key="compo_036394">Weigl (G.B.)</composer>
+                    <title>Litanie solenni a 4 Vóci con Orchestra ed Organo. Op. <opus key="opus_1372">2</opus>, in <key>D</key></title>. <pubPlace key="place_0569">Regensburg</pubPlace>, <publisher key="publ_3124">Pustet</publisher> 3 Thlr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0077_div44">
+                <head rend="inline">
+                    <hofClass key="hofCl_0068">Ub</hofClass>.</head>
+                <bibl id="hofm_1830_09_0077_05"><composer key="compo_012466">Guhr (F.H.F.)</composer>
+                    <title>131 dreistimmige Choräle f. Discant u. 2 Alte, oder f. Tenor u. 2 Bässe.
+                        und 21 Festmelodieen f. Discant, Alt. Tenor u. Bass</title>. 8.
+                        <pubPlace key="place_0082">Breslau</pubPlace>, <publisher key="publ_2387">Leuckart in Commission</publisher>
+                    6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_06">– <composer key="compo_028688">Rohleder (F.T.)</composer>
+                    <title>die musikalische Liturgie in der evangelisch-protestantischen Kirche. Für
+                        Liturgen und Kirchenmusiker etc. als eine theoretisch-praktische
+                        Kirchenmusikschule. Nebst 1 Musikbeilage</title>. 8.
+                    <pubPlace key="place_0235">Glogau</pubPlace>, <publisher key="publ_2848">neue Güntersche Buchhandlung</publisher>
+                    1 Thlr. 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_07">– <composer key="compo_029456">Rümpler (K.)</composer>
+                    <title>Kirchenmelodieenbuch in Ziffern, nach Fr. Schneiders Choralbuche
+                        bearbeitet</title>. 8. <pubPlace key="place_0133">Dessau</pubPlace>. <publisher key="publ_1126">Fritsche u.
+                        Sohn</publisher> 2 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0077_div45">
+                <head rend="inline">
+                    <hofClass key="hofCl_0108">V</hofClass>.</head>
+                <bibl id="hofm_1830_09_0077_08"><composer key="compo_001225">Bach (J.S.)</composer>
+                    <title>Kirchenmusik zu 4 Singstimmen im Klavierauzug. 1ster Band (1: Litanei. 2:
+                        Herr, deine Augen. 3: Ihr werdet weinen.)</title>
+                    <pubPlace key="place_0069">Bonn</pubPlace>, <publisher key="publ_3791">Simrock</publisher> 6 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_09">– – do do. <title>1ster Band, die <format>Singstimmen</format> einzeln</title>. Ebend. 3 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_10">– – do do. <title>2ter Band im <format>Klavierauszug</format> (4: Du Hirte Israel. 5: Herr, gehe nicht ins
+                        Gericht. 6: Gottes Zeit ist die allerbeste Zeit.)</title> Ebend. 10 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_11">– – do do. <title>2ter Band. die <format>Singstimmen</format> einzeln</title>. Ebend. 3 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_12">– <composer key="compo_015697">Händel</composer>, <title>Salomon,
+                        Oratorium im <format>Klavierauszug</format>
+                    </title>. Ebend. 24 Fr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0077_div46">
+                <head rend="inline">
+                    <hofClass key="hofCl_0253">X</hofClass>.</head>
+                <bibl id="hofm_1830_09_0077_13"><composer key="compo_015612">Hummel (J.N.)</composer>
+                    <title>Air à la Tyrolienne (Carina senti – Dies Herz nur fühle –) avec
+                        Variations p. une Voix avec Orchestre. Oe. <opus key="opus_0358">118</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 2 Fl. 30
+                    Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_14">– <composer key="compo_031123">Schubert (Franz)</composer>
+                    <title>der Hirt auf dem Felsen, f. 1 Singst. mit Pfte u. Clarinette oder Vclle.
+                        (Aus dessen Nachlass.) Op. <opus key="opus_0511">129</opus>, in <key>B</key></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 1 Fl. 30
+                    Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0077_div47">
+                <head rend="inline">
+                    <hofClass key="hofCl_0103">Y</hofClass>.</head>
+                <bibl id="hofm_1830_09_0077_15"><composer key="compo_000442">Alneider</composer>,
+                        <title>4 Gesänge f. 4 Männerstimmen</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_3011">Pennauer</publisher> 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0077_16">– – <title>4 Gesänge f. 3 Männerstimmen</title>.
+                    Ebend. 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_17">– – <title>2 Gesänge f. Sopran, Alt, Tenor und
+                    Bass</title>. Ebend. 30 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_18">– <composer key="compo_008460">Erck</composer>, <title>Sammlung 3- u.
+                        4stimmiger Gesänge für Schule u. Haus, 2tes Heft</title>.
+                    <pubPlace key="place_0069">Bonn</pubPlace>, <publisher key="publ_3791">Simrock</publisher> 2 Fr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_19">– <composer key="compo_009286">Fink</composer>, <title>6 Gesänge f. 4
+                        Männerst. Op. <opus key="opus_1271">19</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3023">Peters</publisher> 20 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_20">– <composer key="compo_016958">Karow</composer>, <title>4 Lieder für
+                        den 4stimmigen Männerchor, Op. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0094">Bunzlau</pubPlace>, <publisher key="publ_0083">Appun</publisher> 10 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_21">– <title>Liedertafel, Stuttgarter. Auswahl
+                        4stimmiger Männergesänge. 1ste Sammlung</title>. Gr. 8.
+                    <pubPlace key="place_0662">Stuttgart</pubPlace>. <publisher key="publ_1729">Hoffmann</publisher> 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0077_22">– <composer key="compo_021180">Lochmann (J.G.A.)</composer>
+                    <title>Schulgesangbuch für Volksschulen beim Gesangsunterricht, zum
+                        Gesangvergnügen u. zur Gesangerbauung. Methodisch geordnet u. in Ziffern
+                        übergerragen</title>. <pubPlace key="place_0392">Leipzig</pubPlace>,
+                    <publisher key="publ_0608">Cnobloch</publisher> 10 Gr.</bibl>
+</div>
+                <pb n="78"/>
+
+                <div id="hofm_1830_09_0077_div47_bis">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0103">Y</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0078_01"><title>Marseillaise</title>.
+                    Siehe später: AA. <xref type="external" from="hofm_1830_09_0079_01" to="DITTO" targOrder="U">Marseillaise</xref>. </bibl>
+                
+
+                <bibl id="hofm_1830_09_0078_02">– <composer key="compo_023829">Mosel (J.F. v.)</composer>
+                    <title>Tag und Nacht, Gedicht v. J.G. Seydel. f. 2 Soprane, Tenor u. Bass mit
+                        Pfte</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 1
+                    Fl. 15 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_03">– <composer key="compo_027778">Reichardt (G.)</composer>
+                    <title>Volkslieder f. Sopran, Alt, Tenor u. Bass. 1ster Heft, 6 Lieder. <format>Partitur und Stimmen</format>. Op. <opus key="opus_4562">9</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_2306">Laue</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_04">– <composer key="compo_027979">Reissiger</composer>, <title>Wachtlied
+                        der Dresdner Communalgarde f. 4 Männerst. (oder f. 1 <sic>Siugst</sic>. mit
+                        Pfte.)</title>
+                    <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_2993">Paul</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_05">– <composer key="compo_037550">Wollank</composer>, <title>Dithyrambe
+                        von Schiller f. Solostimmen u. Chor mit obligatem Pfte. Op. <opus key="opus_1165">18</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>. <publisher key="publ_4067">Trautwein</publisher> 16 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0078_div48">
+                <head rend="inline">
+                    <hofClass key="hofCl_0268">Z</hofClass>.
+                </head>
+                <wip id="hofm_1830_09_0078_06"> <title>Aurora d’Italia e di Germania.
+                        Sammlung beliebter Gesänge aus Opern etc. mit Pfte</title>. <title>No.
+                    124</title> (1 Fl. 15 Xr.) <title>No. 125</title> (45 Xr.)
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_2605">Mechetti</publisher>.</wip>
+
+                <bibl id="hofm_1830_09_0078_07">– <title>Ehestands – A – B – C, das, gesungen von
+                        Hrn. Freund in der Posse: der falsche Paganini, mit Pfte</title>.
+                        <pubPlace key="place_0440">Mannheim</pubPlace>, <publisher key="publ_1534">Heckel</publisher> 27 Xr.</bibl>
+
+                <wip id="hofm_1830_09_0078_08">– <title>Etoile (l’) Répertoire d’Airs
+                        des Opéra avec Pfte</title>. <title>No. 3</title> (6 Gr.) <title>No.
+                    4</title> (12 Gr.) <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3011">Pennauer</publisher>.</wip>
+
+                <wip id="hofm_1830_09_0078_09">– <composer key="compo_014437">Herold (F.)</composer>
+                    <title>die Täuschung (l’illusion). Oper im <format>Klavierauszuge</format>, französich u. deutsch, einzeln</title>.
+                        <pubPlace key="place_0392">Leipz</pubPlace>. <publisher key="publ_0437">Br. et Härtel</publisher> à 3, 6, 8,
+                    10, 12 Gr. u. 1 Thlr.</wip>
+
+                <bibl id="hofm_1830_09_0078_10">– <composer key="compo_028968">Rossini</composer>, <title>der Barbier
+                        von Sevilla (il Barbiere di Seviglia) Oper. <format>Neu-vervollständigter Klavierauszug</format>, mit allen eingelegten
+                        Stücken. Italienisch u. deutsch</title>, <pubPlace key="place_0392">Leipzig</pubPlace>,
+                        <publisher key="publ_3109">Probst</publisher> 5 Thlr. (Auch einzeln.)</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0078_div49">
+                <head rend="inline">
+                    <hofClass key="hofCl_0040">AA</hofClass>.</head>
+                <album id="hofm_1830_09_0078_11"><title>Ariette (6) italiane composte
+                        da <composer key="compo_025592">Pacini</composer>, <composer key="compo_035235">Vaccaj</composer>,
+                            <composer key="compo_023733">Morandi</composer>, <composer key="compo_026111">Perucchini</composer> e
+                            <composer key="compo_006075">Cottreau</composer> p. una Voce con Pfte. Parte 1, 2</title>.
+                        <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_3011">Pennauer</publisher> à 45 Xr.</album>
+
+                <bibl id="hofm_1830_09_0078_12">– <composer key="compo_003283">Blum (C.)</composer>
+                    <title>Var. über polnische Volkslieder etc. f. 1 Singst. mit Pfte, gesungen von
+                        Dslle H. Sonntag</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                        <publisher key="publ_3471">Schlesinger</publisher> 10 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_13">– <composer key="compo_004752">Burmeister (F.)</composer>
+                    <title>das Mädchen am Bache, Altarie mit Pfte</title>.
+                    <pubPlace key="place_0276">Hamburg</pubPlace>, <publisher key="publ_0540">Böhme</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_14">– <title>Communalgarden-Wachtlied mit Pfte</title>.
+                        <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_2661">Meser</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_15">– <composer key="compo_006128">Cratzel</composer>, <title>Berliner
+                        Dischbraziohns- oder sanfter Heinrichswalzer f. Pfte mit colorirter Vignette
+                        u. Text</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                    <publisher key="publ_4247">Wagenführ</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_16">– <title>Drapeau (le) tricolore, d’après la
+                        Marseillaise p. une Voix avec Pfte</title>. <pubPlace key="place_0392">Leipzig</pubPlace>,
+                        <publisher key="publ_3109">Probst</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_17">– <composer key="compo_011633">Gollmick</composer>, <title>die
+                        Nachtigall, von Heine, f. eine Singstimme mit Pfte. Op. <opus key="opus_2403">34</opus></title>. <pubPlace key="place_0519">Offenbach</pubPlace>, <publisher key="publ_0065">André</publisher> 27 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_18">– <composer key="compo_015605">Hummel (G.A.)</composer>
+                    <title>2 Lieder (Bertrands Abschied von Frankreich – Bertrands Erinnerung an
+                        seine Heimath) f. 1 Singst. mit Pfte</title>. <pubPlace key="place_0339">Carlsr</pubPlace>.
+                        <publisher key="publ_2577">Marx</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_19">– <composer key="compo_015612">Hummel (J.N.)</composer>
+                    <title>Air à la Tyrolienne (Carina senti – Dies Herz nur fühle,) avec Var. p.
+                        une Voix avec Pfte. Oe. <opus key="opus_0358">118</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_1506">Haslinger</publisher> 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0078_20">– <composer key="compo_021681">Löwe (C.)</composer>
+                    <title>6 Serbenlieder f. eine Singstimme mit Pfte. Op. <opus key="opus_0806">15</opus></title>. <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_4247">Wagenführ</publisher> 14 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0078_21">– <composer key="compo_022292">Marschner</composer>,<title> Wachtlied
+                        der Leipziger Bürger von W. Gerhard, f. eine Singstimme mit Pfte</title>.
+                        <pubPlace key="place_0392">Leipzig</pubPlace>
+                    <publisher key="publ_3109">Probst</publisher> 4 Gr.</bibl>
+      </div>
+                <pb n="79"/>
+
+                <div id="hofm_1830_09_0078_div49_bis">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0040">AA</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0079_01"> <title>Marseillaise (la)
+                        Chant national de 1792 p. une Voix et Choeur avec Pfte</title>.
+                        <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 4 Gr.
+                        <pubPlace key="place_0519">Offenbach</pubPlace>, <publisher key="publ_0065">André</publisher> 12 Xr.</bibl>
+               
+          
+
+                <bibl id="hofm_1830_09_0079_02">– – – <title>avec Pfte ou Guitarre</title>.
+                        <pubPlace key="place_0044">Berlin</pubPlace>, <publisher key="publ_2473">Logier</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_03">– <composer key="compo_024179">Müller (C.G.)</composer>
+                    <title>Festlied der Leipziger Schützengesllschaft am 16. Sept. 1830 f. eine
+                        Singst. mit Pfte</title>. <pubPlace key="place_0392">Leipzig</pubPlace>,
+                    <publisher key="publ_3109">Probst</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_04">– <composer key="compo_024215">Müller (Georg)</composer>
+                    <title>6 deutsche Lieder für eine Bassstimme mit Pfte. Op. <opus key="opus_0021">10</opus></title>. <pubPlace key="place_0078">Braunschweig</pubPlace>. <publisher key="publ_2686">Meyer j</publisher>. 14
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_05">– <title>Parisienne (la) Marche nationale, Paroles
+                        de Delavigne, p. une Voix avec Pfte</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                        <pubPlace key="place_0076">Brandenburg</pubPlace>. <publisher key="publ_3471">Schlesinger</publisher> 6 Gr.
+                        <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 4 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_06">– <composer key="compo_026573">Pixis (J.P.)</composer>
+                    <title>der Schweitzerbue, Arie mit Veränderungen zum Behuf der Concerte der
+                        Dslle H. Sonntag, für eine Singst. mit Pfte (in <key>C</key>.)</title>
+                    <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_3109">Probst</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_07">– <composer key="compo_027979">Reissiger</composer>, <title>Lieder u.
+                        Gesänge f. eine Singst. mit Pfte. 8te Sammlung, Op. <opus key="opus_3204">50</opus>. <edition>Zweite Auflage</edition>
+                    </title>, <pubPlace key="place_0147">Dresden</pubPlace>, <publisher key="publ_2993">Paul</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_08">– – <title>Wachtlied</title>. Siehe vorher: Y. <xref type="external" from="hofm_1830_09_0078_04" to="DITTO" targOrder="U">Reissiger</xref>.</bibl>
+
+                <bibl id="hofm_1830_09_0079_09">– <composer key="compo_034032">Sämann (C.)</composer>
+                    <title>Lieder f. eine Singst. mit Pfte. Op. <opus key="opus_3181">5</opus></title>. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_0437">Br. et Härtel</publisher> 12
+                    Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_10">– <composer key="compo_031123">Schubert (Franz)</composer>
+                    <title>Ballade von Kenner (Ein Fräulein schaut vom hohen Thurm) f. eine Singst.
+                        mit Pfte. Op. <opus key="opus_0486">126</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J. Czerny</publisher> 45 Xr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_11">– – <title>nachgelassene musikalische Dichtungen,
+                        7tes Heft: des Sängers Habe von Schlechta, Hippolits Lied von J.
+                        Schopenhauer, Abendröthe von Schlegel, u. Ständchen von Shakespeare, f. eine
+                        Singst, mit Pfte</title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et
+                        C</publisher>. 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0079_12">– <composer key="compo_034636">Tivoli (A.)</composer>
+                    <title>Besänftigungswalzer als Antwort zum Berliner Dischbraziohnswalzer, f.
+                        Pfte mit colorirter Vignette u. Text</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                        <publisher key="publ_4247">Wagenführ</publisher> 6 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_13">– <composer key="compo_036298">Wedemann (W.)</composer>
+                    <title>200 auserlesene deutsche Volkslieder f. eine Singstimme mit Pfte</title>.
+                    12. <pubPlace key="place_0319">Ilmenau</pubPlace>, <publisher key="publ_4216">Voigt</publisher> 16 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0079_div50">
+                <head rend="inline">
+                    <hofClass key="hofCl_0047">BB</hofClass>.</head>
+                <bibl id="hofm_1830_09_0079_14"><composer key="compo_003283">Blum (C.)</composer>
+                    <title>Var. über polnische Volkslieder etc. f. 1 Singstimme mit Guitarre.
+                        gesungen von Dslle H. Sonntag</title>. <pubPlace key="place_0044">Berlin</pubPlace>,
+                        <publisher key="publ_3471">Schlesinger</publisher> 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_15">– <composer key="compo_021040">Lindpaintner</composer>, <title>beliebte
+                        Gesänge aus dem Vampyr mit Guitarre arr</title>. <pubPlace key="place_0392">Leipzig</pubPlace>
+                    <publisher key="publ_3023">Peters</publisher> 1 Thlr. (Auch einzeln.)</bibl>
+
+                <bibl id="hofm_1830_09_0079_16">– <composer key="compo_026185">Petersen (J.F.)</composer>
+                    <title>8 Gedichte von Baasch, f. eine Singst. mit leichter Guitarrebegleitung.
+                        2tes Heft</title>. <pubPlace key="place_0276">Hamburg</pubPlace>,
+                    <publisher key="publ_0540">Böhme</publisher> 12 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_17">– <composer key="compo_031123">Schubert (Franz)</composer>
+                    <title>6 Gedichte für eine Singstimme mit Guitarre. Op. <opus key="opus_0358">118</opus></title>. <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0671">J. Czerny</publisher> 45 Xr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0079_div51">
+                <head rend="inline">
+                    <hofClass key="hofCl_0003">CC</hofClass>.</head>
+                <bibl id="hofm_1830_09_0079_18"><composer key="compo_005359">Carulli (F.)</composer>
+                    <title>Anfang im Gesangunterricht f. Bass oder Bariton mit Pfte. Op. <opus key="opus_2243">316</opus>. Deutsch u. französ</title>.
+                    <pubPlace key="place_0392">Leipzig</pubPlace>. <publisher key="publ_3109">Probst</publisher> 1 Thlr. 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0079_19">– <composer key="compo_010971">Georgi (C.F.)</composer>
+                    <title>theoretisch-praktische Gesanglehre f. Stadt- u. Landschulen.
+                            <edition>Neue. unveränderte Ausgabe</edition>
+                    </title>. Quer 4. <pubPlace key="place_0392">Leipzig</pubPlace>. <publisher key="publ_1968">Kayser</publisher> 10
+                    Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0079_div52">
+                <head rend="inline">
+                    <hofClass key="hofCl_0287">DD</hofClass>.</head>
+                <wip id="hofm_1830_09_0079_20"><title>Archiv, musikalisches, enth.
+                        classische Instrumentalcompositionen in <format>Partitur</format>,
+                        zum Studium</title>. <title>No. 1, 2, 3, 4</title>.
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0735">Diabelli et C</publisher>. 2 Fl. 45 Xr.
+                    Siehe einzeln: B. <xref type="external" from="hofm_1830_09_0066_05" to="DITTO" targOrder="U">Beethoven</xref>. Cd. <xref type="external" from="hofm_1830_09_0066_22" to="DITTO" targOrder="U">Sechter</xref>. Ce.
+                        <xref type="external" from="hofm_1830_09_0066_23" to="DITTO" targOrder="U">Kirnberger</xref>. DD. <xref type="external" from="hofm_1830_09_0080_04" to="DITTO" targOrder="U">Sechter</xref>.</wip>
+
+                <bibl id="hofm_1830_09_0079_21">– <author>Harrys</author>. Siehe
+                    später: DD. <xref type="external" from="hofm_1830_09_0080_03" to="DITTO" targOrder="U">Paganini</xref>.</bibl>
+</div>
+                <pb n="80"/>
+
+                <div id="hofm_1830_09_0079_div52_bis">
+                    <head rend="inline">
+                        <hofClass key="hofCl_0287">DD</hofClass>.</head>
+                    <bibl id="hofm_1830_09_0080_01"><author>Häuser (J.E.)</author>
+                    <title>der musikal. Gesellschafter oder Sammlung von Anekdoten u. Miscellen über
+                        berühmte Musiker oder Musik überhaupt</title>. 8.
+                    <pubPlace key="place_0449">Meissen</pubPlace>, <publisher key="publ_1397">Gödsche</publisher> 1 Thlr. </bibl>
+                
+
+                <bibl id="hofm_1830_09_0080_02">– <author>Luber</author>, <title>Versuch einer
+                        gründlichen u. fasslichen Anleitung über die Regeln der Tonkunst, in 3
+                        Theilen. 1ster Theil</title>. <pubPlace key="place_0354">Coblenz</pubPlace>,
+                        <publisher key="publ_1819">Hölscher</publisher> 1 Thlr. 8 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0080_03">– <title>Paganini in seinem Reisewagen u. Zimmer. in
+                        seinen redseligen Stunden, in gesellschaftlichen Zirkeln und in seinen
+                        Concerten. Aus einem Reisejournale von <author>Georg Harrys</author>
+                    </title>, 12. <pubPlace key="place_0078">Braunschweig</pubPlace>. <publisher key="publ_4196">Vieweg</publisher>
+                    10 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0080_04">– <author>Sechter</author>, <title>Einheit und
+                        Mannigfaltigkeit des Contrapunkts u. des Canons in 81 Sätzen dargestellt.
+                            <format>Partitur</format>
+                    </title> (Musikalisches Archiv No. 3.) <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_0735">Diabelli et C</publisher>. 1 Fl.</bibl>
+
+                <wip id="hofm_1830_09_0080_05">– <title>praktische Generalbass-Schule,
+                        bestehend in 120 progressiven u. mehrfach ausgeführten Uebungen, mit
+                        besonderer Rücksicht auf jene, welche sich im Orgelspiele vervollkommnen
+                        wollen. Op. <opus key="opus_3140">49</opus></title>, <title>in 2 Abtheilungen</title>. <pubPlace key="place_0731">Wien</pubPlace>,
+                        <publisher key="publ_0671">J. Czerny</publisher> à 2 Fl. 30 Xr.</wip>
+
+                <bibl id="hofm_1830_09_0080_06">– <composer key="compo_036844">Weyrich (B.C.A.)</composer>
+                    <title>die Instrumentalton-Sprechkunst, oder Anleitung durch
+                        Instrumentaltönealle Nachrichten in die Ferne zu geben, sowohl im Frieden
+                        als im Kriege, beim Civil u. Militair, auf dem Lande und Meere</title>. Gr.
+                    8. <pubPlace key="place_0392">Leipzig</pubPlace>, <publisher key="publ_4398">Wienbrack</publisher> 10 Gr.</bibl>
+
+            </div>
+            <div id="hofm_1830_09_0080_div53">
+                <head rend="inline">
+                    <hofClass key="hofCl_0280">FF</hofClass>.</head>
+                <bibl id="hofm_1830_09_0080_07"><title>Pantheon der berühmtesten Menschen aller
+                        Völker und Zeiten. 7te Section, Bildnisse berühmter Componisten, Tonkünstler
+                        u. Schauspieler. 1ste Lieferung, No. 1–10, worunter <subject>A.
+                        Boieldieu</subject>, <subject>D. Cimarosa</subject>, <subject>F.
+                        Méhul</subject>, <subject>N. Paganini</subject> u. <subject>J.R.
+                        Zumsteeg</subject>.) Nach den besten Originalen gestochen</title>. Gr. 4.
+                        <pubPlace key="place_0763">Zwickau</pubPlace>, <publisher key="publ_3656">Gebr. Schumann</publisher> 16 Gr.</bibl>
+
+                <bibl id="hofm_1830_09_0080_08">– <title>Portrait von Dslle <subject>Anne Caroline
+                            de Belleville</subject> (nach <artist>Agricola</artist>’s Gemälde.)</title>
+                    <pubPlace key="place_0731">Wien</pubPlace>, <publisher key="publ_0106">Artaria et C</publisher>. 1 Fl.</bibl>
+
+                <bibl id="hofm_1830_09_0080_09">– – <title>von <subject>Pastou</subject> (lith, von
+                            <artist>Vigneron</artist>.)</title>
+                    <pubPlace key="place_0537">Paris</pubPlace>, <publisher key="publ_3222">Richault</publisher> 5 Fr.</bibl>
+
+
+
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI.2>
