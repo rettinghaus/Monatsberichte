@@ -7,7 +7,7 @@
        Klaus Rettinghaus
 
   -->
-  <xsl:output method="xml" encoding="utf-8" cdata-section-elements="tei:eg" omit-xml-declaration="yes" />
+  <xsl:output method="xml" encoding="utf-8" cdata-section-elements="tei:eg" omit-xml-declaration="no" />
 
   <xsl:variable name="processor">
     <xsl:value-of select="system-property('xsl:vendor')" />
@@ -147,12 +147,6 @@
 
   <!-- fool around with selected elements -->
 
-
-  <!-- imprint is no longer allowed inside bibl -->
-  <xsl:template match="bibl/imprint">
-    <xsl:apply-templates/>
-  </xsl:template>
-
   <xsl:template match="editionStmt/editor">
     <respStmt xmlns="http://www.tei-c.org/ns/1.0">
       <resp>
@@ -167,9 +161,35 @@
   <!-- header -->
 
   <xsl:template match="teiHeader">
-    <teiHeader>
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:apply-templates select="@*|*|comment()|processing-instruction()" />
     </teiHeader>
+  </xsl:template>
+
+  <xsl:template match="publicationStmt">
+    <publicationStmt xmlns="http://www.tei-c.org/ns/1.0">
+      <publisher>
+        <persName ref="http://d-nb.info/gnd/140541624">
+          <surname>Rettinghaus</surname>
+          <forename>Klaus</forename>
+        </persName>
+      </publisher>
+      <pubPlace>Leipzig</pubPlace>
+      <date type="publication">
+        <xsl:value-of select="$today" xmlns="http://www.tei-c.org/ns/1.0" />
+      </date>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+          <p>Distributed under the Creative Commons Attribution 4.0 International License.</p>
+        </licence>
+      </availability>
+    </publicationStmt>
+  </xsl:template>
+
+  <xsl:template match="sourceDesc">
+    <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
+      <bibl>Musikalisch-literarischer Monatsbericht über neue Musikalien, musikalische Schriften und Abbildungen</bibl>
+    </sourceDesc>
   </xsl:template>
 
   <xsl:template match="revisionDesc">
@@ -177,25 +197,12 @@
       <xsl:apply-templates select="@*|*|comment()|processing-instruction()" />
       <change>
         <date>
-          <value-of select="$today" />
+          <xsl:value-of select="$today" />
         </date>
-        <respStmt>
-          <name>Rettinghaus</name>
-        </respStmt>
-        <item>Converted to TEI P5 XML.</item>
+        <name>Rettinghaus</name>
+        Converted to TEI P5 XML.
       </change>
     </revisionDesc>
-  </xsl:template>
-
-  <xsl:template match="publicationStmt">
-    <publicationStmt xmlns="http://www.tei-c.org/ns/1.0">
-      <xsl:apply-templates select="@*|*|comment()|processing-instruction()" />
-      <!--
-	  <availability xmlns="http://www.tei-c.org/ns/1.0">
-	  <p xmlns="http://www.tei-c.org/ns/1.0">Licensed under <ptr xmlns="http://www.tei-c.org/ns/1.0" target="http://creativecommons.org/licenses/by-sa/2.0/uk/"/></p>
-	  </availability>
-      -->
-    </publicationStmt>
   </xsl:template>
 
   <!-- space does not have @extent any more -->
@@ -220,9 +227,6 @@
   <xsl:template match="orgName/orgTitle">
     <xsl:apply-templates/>
   </xsl:template>
-
-  <!-- no need for empty <p> in sourceDesc -->
-  <xsl:template match="sourceDesc/p[string-length(.)=0]" />
 
   <!-- start creating the new choice element -->
   <xsl:template match="corr[@sic]">
@@ -517,6 +521,15 @@
       </xsl:attribute>
       <xsl:apply-templates select="*|@*[not('key')]|processing-instruction()|comment()|text()" />
     </hi>
+  </xsl:template>
+
+  <xsl:template match="publisher">
+    <publisher xmlns="http://www.tei-c.org/ns/1.0">
+      <orgName>
+        <xsl:apply-templates select="@*" />
+        <xsl:value-of select="." />
+      </orgName>
+    </publisher>
   </xsl:template>
 
 </xsl:stylesheet>
